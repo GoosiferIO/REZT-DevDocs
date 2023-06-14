@@ -2,34 +2,34 @@ We have mapped some code to virtual memory. This page will be a living document 
 
 ## **Entry Point/Main**
 
-entry
-[main](../Mapped/main.md)
+- entry
+- [main](../Mapped/main.md)
 
 ## **UI Structures:**
 
-UIText
-UIButton
-UIGraph
-[ZTGameMgr](../Mapped/ZTGameMgr.md)
-ZTMiniMap
-ZTMessageQueue
-ZTMapView
-ZTMegatileMgr
-ZTMarketingMgr
-ZTResearchMgr
-ZTThoughtMgr
-ZTWorldMgr
+- UIText
+- UIButton
+- UIGraph
+- [ZTGameMgr](../Mapped/ZTGameMgr.md)
+- ZTMiniMap
+- ZTMessageQueue
+- ZTMapView
+- ZTMegatileMgr
+- ZTMarketingMgr
+- ZTResearchMgr
+- ZTThoughtMgr
+- ZTWorldMgr
 
 ## **AI Structures**
 
-ZTHabitatMgr
-ZTAIMgr
-ZTScenarioMgr
-ZTShowMgr
+- ZTHabitatMgr
+- ZTAIMgr
+- ZTScenarioMgr
+- ZTShowMgr
 
 ## **Utility Structures**
 
-BFRegistry
-ZTScriptMgr
-BFResourceMgr
+- BFRegistry
+- ZTScriptMgr
+- BFResourceMgr
 
