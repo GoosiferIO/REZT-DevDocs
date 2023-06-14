@@ -10,7 +10,7 @@ It isn't clear if the game has its own command console, but there seem to be tra
 
 **Mod Loading**
 
-The API will require mod loading for mods that utilize our features. This code was contributed by gurrenm4 in the earlier parts of the project. Needs a lot of modification since it's a rough port from C# to C++, so at the moment it has been commented out in the repo.
+The API will require mod loading for mods that utilize our features. This code was contributed by gurrenm4 in the earlier parts of the project. Needs a lot of modification since it's a rough port from C# to C++, so at the moment it has been commented out in the repo. Mod loading isn't important right now until the API has more game code to draw from.
 
 	EmuController
 	EmuGameLoop
