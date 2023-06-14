@@ -6,7 +6,7 @@ Category name might change. Code below is related to code functional to the API 
 
 It isn't clear if the game has its own command console, but there seem to be traces here and there that might suggest there is or was. Since this feature is important to test hooked functions and rewritten code, I decided to make one.
 
-	EmuConsole
+	[[EmuConsole]]
 
 **Mod Loading**
 
