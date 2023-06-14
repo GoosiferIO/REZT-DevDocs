@@ -1,0 +1,100 @@
+Credit to Jay and Fern for documenting these cheats. These will be essential to mapping many of the function calls within the cheat function, and will lead to other discoveries.
+
+This cheat list will be restructured as a table later on for readability. At this time, this list is exactly as it was written by Jay and Fern:
+
+To rename a guest, employee, or exhibit, click the desired object, then type a new name into the
+Info panel.
+
+• Name a guest Adam Levesque and unlock all Animal Care research programs. (Adam
+Levesque is the CEO of Blue Fang and Creative Director for Zoo Tycoon.)
+• Name a guest Lou Catanzaro and unlock all Animal Enrichment research programs.
+• Name a guest Charlie Peterson and unlock all exhibit foliage. (Charlie Peterson is one of the
+Program Managers on Zoo Tycoon.)
+• Name a guest Akiyama and unlock all the scenarios that ship with the game. (Akiyama is the
+family name of one of the test team members.)
+• Name a guest Steve Serafino and unlock all Endangered Animals research programs. (Steve
+Serafino is one of the designers of Zoo Tycoon.)
+• Name a guest John Wheeler and unlock all animal shelters. (John Wheeler is the
+Engineering Director for Zoo Tycoon.)
+• Name a guest Ron Propst and unlock the Dinosaur Foliage research program. (DD)
+• Name a guest Hank Howie and unlock all Staff Education research programs.
+• Name a guest Eggman and dinosaur eggs hatch more quickly. (DD)
+• Name a guest Dinoman and unlock all dinosaurs. (DD)
+• Name a male maintenance worker Bob V and all currently broken fences are fixed. ("Bob V"
+refers to Bob Vila, the well-known home improvement show host.)
+• Name a scientist Dr. Scholl and all scientists walk twice as fast. (DD)
+• Name an exhibit Cretaceous Corral and unlock the Triceratops.
+• Name an exhibit Xanadu and unlock the Unicorn. (Xanadu was Kublai Khan's summer
+capital in China, where he met Marco Polo in 1275. It is also the title of a poem by Samuel
+Taylor Coleridge.)
+• Name an exhibit Super Croc and unlock Deinosuchus.
+• Press $ (Shift+4) and get $10,000, but a random exhibit fence weakens (great time for the
+Bob V cheat!).
+Easter Eggs
+Easter eggs are surprises that you may or may not run across as you play. Many of these are
+date-depended, but pay attention—some relate to the in-game date and others to the real-world
+calendar.
+• On September 15 on the in-game calendar (the date of the signing of the contract between
+Microsoft and Blue Fang for Zoo Tycoon), a biplane with the Microsoft logo flies across the
+map pulling a banner with the Blue Fang logo.
+• On their own turf, penguins are capable of killing pretty much any animal in the zoo.
+• Guests entering the zoo on January 1 (New Year's Day) on the in-game calendar may be
+sick.
+• October is Dinosaur Month! Purchase all dinosaurs at half price during the in-game month of
+October.
+• On October 31 on the real-world calendar, all guests and buildings wear orange and black in
+honor of Halloween, a jack-o-lantern is available from the buildings and items menu, and a
+wicked witch flies over the zoo on a broomstick.
+• On October 31 (Halloween) on the in-game calendar a witch flies over the zoo on a
+broomstick and a jack-o-lantern is available from the buildings and items panel.
+• On Christmas (December 25) on the in-game calendar, Santa Claus flies over the zoo in his
+sleigh.
+Secrets
+Secrets are sort of a combination of the two, and are mostly just for fun. Enjoy!
+• Name a male maintenance worker George W and all the foliage in your zoo will vanish, but
+you'll receive $300 tax rebate. Tested
+• Name a guest Mr. Brown, Mr. Pink, Mr. White, Mr. Blue, Mr. Blonde, or Mr. Orange and all
+guests and buildings currently in the zoo change to the associated color. Tested
+• Name male maintenance worker The Rock, all buildings are turned to rubble. Tested lol that
+was fun
+• Name a grizzley bear Deer (deer not Deer) and the bear will immediately break out of its
+exhibit (unless the fence is electrified). Does not work on the black bear or polar bearNeed to
+retest this as I changed them back to bear and they still ploughed through the fence and I may
+be wrong about it being case sensitive
+• Place a Mermaid Statue in an exhibit or show tank and it changes into a real mermaid. The
+Mermaid will not appear in the adopt an animal menu; however, you can continue dropping
+Mermaid Statues into water tanks to "adopt" more.
+• Name a guest Zeta Psi and all adult male guests in your zoo change colors and become sick.
+(Zeta Psi is a college fraternity.)
+• Name a guest Alfred H and a flock of birds appears to frighten your guests.
+• Place a lion, a Bengal tiger, and a bear in an empty exhibit and unlock golden brick
+walkways.
+• Name a scientist Dr. Frankenstein and there's a 10% chance an egg will change its contents
+when the scientist visits. (DD)
+• Name an exhibit Copralite Corner, all dinosaur poo turns into rocks. (DD)
+• Name a guest Stinky and the guest causes other guests to be sick. (MM)
+• Name a male guest rpro and female guests will run from him. (MM)
+• Name a male guest Boogyman and the guest causes children to run away screaming. (MM)
+Rumors
+Unconfirmed rumors that we might or might not have heard...
+• Name an exhibit wonderland and get a bonus toward the chance of guests entering the zoo.
+• Name a reindeer comet and all dinosaurs and dino eggs disappear from your zoo!
+• Name an exhibit Microsoft and get double the normal donations at exhibits.
+• Name a female tour guide Rosalie and all your tour guides will work for free. (Rosalie is one
+of the Deep Gameplay Testers for Zoo Tycoon.)
+• When penguins reach a happiness rating of 90+, they will do a happy dance.
+• When lowland gorillas reach a happiness of 90+, they will do a happy dance.
+• Name a female Zookeeper Susan Kittleson and Zoo Marketing effect is doubled (non-
+cumulative) (DD)
+• Name a male Zookeeper Chuck Frizelle and Zoo Marketing effect is doubled (non-
+cumulative), (DD
+• Name a guest Russell C and all exhibit fences will become broken, letting the animals free.
+• Earn the Zoo of the Year award and unlock the Elephant Seal Statue. (MM)
+• Earn the Excellence in Arctic Exhibit Construction and unlock the Iceberg. (MM)
+• Earn the Best Sea Lion Show in the Country and unlock the California Sea Lion Statue
+(MM)
+• Earn the Best Orca Show in the Country and unlock the Orca Statue (MM)
+• Earn the Best Dolphin Show in the Country and unlock the Bottlenose Dolphin Statue (MM)
+• Win the Aquatic Show Park scenario and unlock the Show Grandstand 2 (MM)
+• Win the Shark World scenario and unlock the Photo Booth.
+• Win the Super Zoo scenario and unlock the Trio Statue.
