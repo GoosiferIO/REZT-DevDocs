@@ -1,4 +1,4 @@
-This class appears to update many of the UI elements on the screen. As of this moment, only functionality related to the budget has been exposed in this class, but we speculate that there may be other elements. It might make sense to see this class as the 'player state' class.
+This class appears to update many of the UI elements on the screen. As of this moment, only functionality related to the budget has been exposed in this class, but we speculate that there may be other member functions. It might make sense to see this class as the 'player state' class.
 
 This class is located at `0x0040F018`.
 
