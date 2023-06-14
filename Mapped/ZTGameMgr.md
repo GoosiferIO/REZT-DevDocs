@@ -5,9 +5,9 @@ This class is located at `0x0040F018`.
 # Table of Contents
 
 [[#Structure]]
-1. [[#`addToBudget(float &budget)`]]
-	1. [[#All calls to `addToBudget(..)`]]
-2. [[#`jonathanGilmourTribute(float &budget)`]]
+1. [[#addToBudget(float &budget)]]
+	1. [[#All calls to addToBudget(..)]]
+2. [[#jonathanGilmourTribute(float &budget)]]
 	1. [[#skeeper04.cfg]]
 	2. [[#Attributes]]
 	3. [[#Other usage]]
