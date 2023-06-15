@@ -1,6 +1,8 @@
 Credit to Jay and Fern for documenting these cheats. These will be essential to mapping many of the function calls within the cheat function, and will lead to other discoveries.
 
-This cheat list will be restructured as a table later on for readability. At this time, this list is exactly as it was written by Jay and Fern:
+Documentation on the cheat function is still early as not much is known, but more information is available here: [[Global Functions]]
+
+This cheat list has been restructured as a table for readability, and there is still more near the bottom to reformat. Permission to host this cheat list was given by Jay. This list is exactly as it was written by Jay and Fern:
 
 # Cheats
 
@@ -32,28 +34,41 @@ Easter eggs are surprises that you may or may not run across as you play. Many o
 date-depended, but pay attention—some relate to the in-game date and others to the real-world
 calendar.
 
+## Event-Based
 
-• On September 15 on the in-game calendar (the date of the signing of the contract between
-Microsoft and Blue Fang for Zoo Tycoon), a biplane with the Microsoft logo flies across the
-map pulling a banner with the Blue Fang logo.
-• On their own turf, penguins are capable of killing pretty much any animal in the zoo.
-• Guests entering the zoo on January 1 (New Year's Day) on the in-game calendar may be
-sick.
-• October is Dinosaur Month! Purchase all dinosaurs at half price during the in-game month of
-October.
-• On October 31 on the real-world calendar, all guests and buildings wear orange and black in
-honor of Halloween, a jack-o-lantern is available from the buildings and items menu, and a
-wicked witch flies over the zoo on a broomstick.
-• On October 31 (Halloween) on the in-game calendar a witch flies over the zoo on a
-broomstick and a jack-o-lantern is available from the buildings and items panel.
-• On Christmas (December 25) on the in-game calendar, Santa Claus flies over the zoo in his
-sleigh.
-Secrets
+| Date | Calendar Type | Description |
+| ---- | ---- | --- |
+| September 15 | In-Game | (The date of the signing of the contract between Microsoft and Blue Fang for Zoo Tycoon), a biplane with the Microsoft logo flies across the map pulling a banner with the Blue Fang logo. |
+| October | In-game | October is Dinosaur Month! Purchase all dinosaurs at half price during the in-game month of October. |
+| January 1 | In-Game | Guests entering the zoo on this day may be sick. |
+| October 31 | Real-World | All guests and buildings wear orange and black in honor of Halloween, a jack-o-lantern is available from the buildings and items menu, and a wicked witch flies over the zoo on a broomstick. |
+| October 31 | In-Game | A witch flies over the zoo on a broomstick and a jack-o-lantern is available from the buildings and items panel. |
+| December 25 | In-Game | Santa Claus flies over the zoo in his sleigh. |
+
+## Misc 
+
+| Type | Description |
+| ---- | ---- |
+| Animal behavior | On their own turf, penguins are capable of killing pretty much any animal in the zoo. |
+
+# Secrets
+
 Secrets are sort of a combination of the two, and are mostly just for fun. Enjoy!
-• Name a male maintenance worker George W and all the foliage in your zoo will vanish, but
-you'll receive $300 tax rebate. Tested
-• Name a guest Mr. Brown, Mr. Pink, Mr. White, Mr. Blue, Mr. Blonde, or Mr. Orange and all
-guests and buildings currently in the zoo change to the associated color. Tested
+
+### NPC Name Secrets
+
+| Name | Type | Gender | Description |
+| ------- | -----| ------ | ------- |
+| George W | Maintenance Worker | Male | All the foliage in your zoo will vanish, but you'll receive $300 tax rebate. Tested. |
+| Mr. Brown | Guest | ---- | All guests and buildings currently in the zoo change to the color brown. |
+| Mr. Pink | Guest | ---- | All guests and buildings currently in the zoo change to the color pink. |
+| Mr. White | Guest | ---- | All guests and buildings currently in the zoo change to the color white. |
+| Mr. Blue | Guest | ---- | All guests and buildings currently in the zoo change to the color blue. |
+| Mr. Blonde | Guest | ---- | All guests and buildings currently in the zoo change to the color blonde. |
+| Mr. Orange | Guest | ---- | All guests and buildings currently in the zoo change to the color Orange. |
+
+[still in progress]
+
 • Name male maintenance worker The Rock, all buildings are turned to rubble. Tested lol that
 was fun
 • Name a grizzley bear Deer (deer not Deer) and the bear will immediately break out of its
