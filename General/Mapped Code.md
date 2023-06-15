@@ -29,7 +29,7 @@ We have mapped some code to virtual memory. This page will be a living document 
 
 ## **Utility Structures**
 
-- BFRegistry
+- [[BFRegistry]]
 - ZTScriptMgr
 - BFResourceMgr
 
