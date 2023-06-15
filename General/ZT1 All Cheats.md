@@ -2,38 +2,37 @@ Credit to Jay and Fern for documenting these cheats. These will be essential to 
 
 This cheat list will be restructured as a table later on for readability. At this time, this list is exactly as it was written by Jay and Fern:
 
+# Cheats
+
 To rename a guest, employee, or exhibit, click the desired object, then type a new name into the
 Info panel.
 
-• Name a guest Adam Levesque and unlock all Animal Care research programs. (Adam
-Levesque is the CEO of Blue Fang and Creative Director for Zoo Tycoon.)
-• Name a guest Lou Catanzaro and unlock all Animal Enrichment research programs.
-• Name a guest Charlie Peterson and unlock all exhibit foliage. (Charlie Peterson is one of the
-Program Managers on Zoo Tycoon.)
-• Name a guest Akiyama and unlock all the scenarios that ship with the game. (Akiyama is the
-family name of one of the test team members.)
-• Name a guest Steve Serafino and unlock all Endangered Animals research programs. (Steve
-Serafino is one of the designers of Zoo Tycoon.)
-• Name a guest John Wheeler and unlock all animal shelters. (John Wheeler is the
-Engineering Director for Zoo Tycoon.)
-• Name a guest Ron Propst and unlock the Dinosaur Foliage research program. (DD)
-• Name a guest Hank Howie and unlock all Staff Education research programs.
-• Name a guest Eggman and dinosaur eggs hatch more quickly. (DD)
-• Name a guest Dinoman and unlock all dinosaurs. (DD)
-• Name a male maintenance worker Bob V and all currently broken fences are fixed. ("Bob V"
-refers to Bob Vila, the well-known home improvement show host.)
-• Name a scientist Dr. Scholl and all scientists walk twice as fast. (DD)
-• Name an exhibit Cretaceous Corral and unlock the Triceratops.
-• Name an exhibit Xanadu and unlock the Unicorn. (Xanadu was Kublai Khan's summer
-capital in China, where he met Marco Polo in 1275. It is also the title of a poem by Samuel
-Taylor Coleridge.)
-• Name an exhibit Super Croc and unlock Deinosuchus.
-• Press $ (Shift+4) and get $10,000, but a random exhibit fence weakens (great time for the
-Bob V cheat!).
-Easter Eggs
+| Name | Type | Gender | Description |
+| ------- | -----| ------ | ------- |
+| Adam Levesque | Guest | ---- | Unlock all Animal Care research programs. (Adam Levesque is the CEO of Blue Fang and Creative Director for Zoo Tycoon.) |
+| Lou Catanzaro | Guest | ---- | Unlock all Animal Enrichment research programs. |
+| Charlie Peterson | Guest | ---- | Unlock all exhibit foliage. (Charlie Peterson is one of the Program Managers on Zoo Tycoon.) |
+| Akiyama | Guest | ---- | Unlock all the scenarios that ship with the game. (Akiyama is the family name of one of the test team members.) |
+| Steve Serafino | Guest | ---- | Unlock all Endangered Animals research programs. (Steve Serafino is one of the designers of Zoo Tycoon.) |
+| John Wheeler | Guest | ---- | Unlock all animal shelters (John Wheeler is the Engineering Director for Zoo Tycoon) |
+| Ron Propst | Guest | ---- | Unlock the Dinosaur Foliage research program (DD). |
+| Hank Howie | Guest | ---- | Unlock all Staff Education research programs. |
+| Eggman | Guest | ---- | Dinosaur eggs hatch more quickly. (DD) |
+| Dinoman | Guest | ---- | Unlock all dinosaurs. (DD) |
+| Bob V | Maintenance Worker | Male | All currently broken fences are fixed. ("Bob V" refers to Bob Villa, the well-known home improvement show host.) |
+|  Dr. Scholl | Scientist | ---- | All scientists walk twice as fast. (DD) |
+|Cretaceous Corral | Exhibit | ---- | Unlock the Triceratops |
+| Xanadu | Exhibit | ---- | Unlock the Unicorn. (Xanadu was Kublai Khan's summer capital in China, where he met Marco Polo in 1275. It is also the title of a poem by Samuel Taylor Coleridge.) |
+| Super Croc | Exhibit | ---- | Unlock Deinosuchus. |
+| Press <Shift + 4> | Command | ---- | Get $10,000, but a random exhibit fence weakens (great time for the Bob V cheat!). |
+
+# Easter Eggs
+
 Easter eggs are surprises that you may or may not run across as you play. Many of these are
 date-depended, but pay attention—some relate to the in-game date and others to the real-world
 calendar.
+
+
 • On September 15 on the in-game calendar (the date of the signing of the contract between
 Microsoft and Blue Fang for Zoo Tycoon), a biplane with the Microsoft logo flies across the
 map pulling a banner with the Blue Fang logo.

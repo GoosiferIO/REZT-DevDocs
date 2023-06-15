@@ -20,7 +20,7 @@ This class is located at `0x0040F018`.
 | budget | Stores the value of the budget on the game screen | `*(zoo.exe + 0x00238048) + 0x0C`  |
 | subtractFromBudget(..) | Subtract from the budget | `*(zoo.exe + 0x41ef68)` |
 | [[#addToBudget(float &budget)]] | Adds to the budget | `*(zoo.exe + 0x0040F018)` |
-| jonathanGilmourTribute(..) | Adds $20,000 to the budget, 23321 points to research, among a few other .cfg-related settings | `*(zoo.exe + 0x006089E8)`|
+| [[#jonathanGilmourTribute(float &budget)]]| Adds $20,000 to the budget, 23321 points to research, among a few other .cfg-related settings | `*(zoo.exe + 0x006089E8)`|
 
 ## `addToBudget(float &budget)`
 
