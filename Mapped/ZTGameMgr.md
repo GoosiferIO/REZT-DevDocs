@@ -30,8 +30,6 @@ The first function we've exposed. This function adds to the existing budget on t
 
 The following is a table with all of the calls to the `addToBudget(..)` function in the assembly code. First column is the address to the function where it is called, second row is the location of the `addToBudget` call within that function, and the third column is the context of that call (what triggers this call). This mapping will help us identify what the functions in the first column are doing.
 
-If it's linked it means that function has been identified and will lead you to its definition.
-
 | Call Num | Calling Function | addToBudget Location | Calling Function Context |
 | --- | ----- | ---------- | ---------|
 | 1 | 00613e4a | 00613f61 | |
@@ -39,7 +37,7 @@ If it's linked it means that function has been identified and will lead you to i
 | 3 | 0060ccc2 | 0060cccd | |
 | 4a* | 004f94be | 0050A245 | Called when selling animal, vending machine. Has a label: 0050a242. Todo for 4a and 4b: test all sellable animals, objects. Do they all trigger this function? |
 | 4b* | 0050a0b0 | 0050a245 | Called when selling animal, vending machine. Has a label: 0050a242. | 
-| 5 | [ZTGameMgr#`jonathanGilmourTribute(float &budget)`|006089e8] | 006089fc | Adds $20,000 when renaming a male Zookeeper Jonathan Gilmour with .cfg file |
+| 5 | 006089e8 | 006089fc | Adds $20,000 when renaming a male Zookeeper Jonathan Gilmour with .cfg file |
 | 6 | 00607174 | 00607299 | 
 | 7 | 005b0f17 | 005b0f2d | Sets the budget for a new zoo from the main menu | 
 | 8 | 005a13c5 | 005a1679 | Adds $10,000 when cash is low |
