@@ -39,7 +39,7 @@ If it's linked it means that function has been identified and will lead you to i
 | 3 | 0060ccc2 | 0060cccd | |
 | 4a* | 004f94be | 0050A245 | Called when selling animal, vending machine. Has a label: 0050a242. Todo for 4a and 4b: test all sellable animals, objects. Do they all trigger this function? |
 | 4b* | 0050a0b0 | 0050a245 | Called when selling animal, vending machine. Has a label: 0050a242. | 
-| 5 | 006089e8 | 006089fc | Adds $20,000 when renaming a male Zookeeper Jonathan Gilmour with .cfg file |
+| 5 | [ZTGameMgr#`jonathanGilmourTribute(float &budget)`|006089e8] | 006089fc | Adds $20,000 when renaming a male Zookeeper Jonathan Gilmour with .cfg file |
 | 6 | 00607174 | 00607299 | 
 | 7 | 005b0f17 | 005b0f2d | Sets the budget for a new zoo from the main menu | 
 | 8 | 005a13c5 | 005a1679 | Adds $10,000 when cash is low |

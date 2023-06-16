@@ -4,6 +4,19 @@ Documentation on the cheat function is still early as not much is known, but mor
 
 This cheat list has been restructured as a table for readability, and there is still more near the bottom to reformat. Permission to host this cheat list was given by Jay. This list is exactly as it was written by Jay and Fern:
 
+# Table of Contents
+
+[Cheats](#Cheats)
+[Easter Eggs](#Easter%20Eggs)
+  [Event-Based](#Event-Based)
+  [Misc](#Misc)
+[Secrets](#Secrets)
+  [NPC Name Secrets](#NPC%20Name%20Secrets)
+  [Drop into Enclosure](#Drop%20into%20Enclosure)
+[Rumors](#Rumors)
+  [Renaming NPCs](#Renaming%20NPCs)
+  [Awards](#Awards)
+
 # Cheats
 
 To rename a guest, employee, or exhibit, click the desired object, then type a new name into the
@@ -66,49 +79,51 @@ Secrets are sort of a combination of the two, and are mostly just for fun. Enjoy
 | Mr. Blue | Guest | ---- | All guests and buildings currently in the zoo change to the color blue. |
 | Mr. Blonde | Guest | ---- | All guests and buildings currently in the zoo change to the color blonde. |
 | Mr. Orange | Guest | ---- | All guests and buildings currently in the zoo change to the color Orange. |
+| The Rock | Maintenance Worker | Male | All buildings are turned to rubble. |
+| Deer | Grizzly Bear | ---- | (Note: might be 'deer' instead of 'Deer'). The bear will immediately break of its enclosure (unless fence is electrified). Does not work on the black bear or polar bear. Need to retest this as I changed them back to bear and they still ploughed through the fence and I may be wrong about it being case sensitive |
+| Zeta Psi | Guest | ---- | All adult male guests in your zoo change colors and become sick. |
+| Alfred H | Guest | ---- | A flock of birds appears to frighten your guests |
+| Dr. Frankenstein | Scientist | ---- | 10% chance an egg will change its contents when the scientist visits. (DD) |
+| Copralite Corner | Exhibit | ---- | All dinosaur poo turns into rocks (DD) |
+| Stinky | Guest | ---- | The guest causes other guests to be sick. (MM) |
+| rpro | Guest | Male | Female guests will run from him. (MM) |
+| Boogyman | Guest | Male | The guest causes children to run away screaming. (MM) |
 
-[still in progress]
+## Drop into Enclosure
 
-• Name male maintenance worker The Rock, all buildings are turned to rubble. Tested lol that
-was fun
-• Name a grizzley bear Deer (deer not Deer) and the bear will immediately break out of its
-exhibit (unless the fence is electrified). Does not work on the black bear or polar bearNeed to
-retest this as I changed them back to bear and they still ploughed through the fence and I may
-be wrong about it being case sensitive
-• Place a Mermaid Statue in an exhibit or show tank and it changes into a real mermaid. The
-Mermaid will not appear in the adopt an animal menu; however, you can continue dropping
-Mermaid Statues into water tanks to "adopt" more.
-• Name a guest Zeta Psi and all adult male guests in your zoo change colors and become sick.
-(Zeta Psi is a college fraternity.)
-• Name a guest Alfred H and a flock of birds appears to frighten your guests.
-• Place a lion, a Bengal tiger, and a bear in an empty exhibit and unlock golden brick
-walkways.
-• Name a scientist Dr. Frankenstein and there's a 10% chance an egg will change its contents
-when the scientist visits. (DD)
-• Name an exhibit Copralite Corner, all dinosaur poo turns into rocks. (DD)
-• Name a guest Stinky and the guest causes other guests to be sick. (MM)
-• Name a male guest rpro and female guests will run from him. (MM)
-• Name a male guest Boogyman and the guest causes children to run away screaming. (MM)
-Rumors
+| Object | Place Where | Description | 
+| ---- | ---- | ---- |
+| Mermaid Statue | Exhibit or show tank | It changes into a real mermaid. The mermaid will not appear in the adopt an animal menu; however, you can continue dropping however, you can continue dropping Mermaid Statues into water tanks to "adopt" more. |
+| Lion, bengal tiger, or bear | Empty exhibit | Unlock golden brick walkways |
+
+# Rumors
+
 Unconfirmed rumors that we might or might not have heard...
-• Name an exhibit wonderland and get a bonus toward the chance of guests entering the zoo.
-• Name a reindeer comet and all dinosaurs and dino eggs disappear from your zoo!
-• Name an exhibit Microsoft and get double the normal donations at exhibits.
-• Name a female tour guide Rosalie and all your tour guides will work for free. (Rosalie is one
-of the Deep Gameplay Testers for Zoo Tycoon.)
-• When penguins reach a happiness rating of 90+, they will do a happy dance.
-• When lowland gorillas reach a happiness of 90+, they will do a happy dance.
-• Name a female Zookeeper Susan Kittleson and Zoo Marketing effect is doubled (non-
-cumulative) (DD)
-• Name a male Zookeeper Chuck Frizelle and Zoo Marketing effect is doubled (non-
-cumulative), (DD
-• Name a guest Russell C and all exhibit fences will become broken, letting the animals free.
-• Earn the Zoo of the Year award and unlock the Elephant Seal Statue. (MM)
-• Earn the Excellence in Arctic Exhibit Construction and unlock the Iceberg. (MM)
-• Earn the Best Sea Lion Show in the Country and unlock the California Sea Lion Statue
-(MM)
-• Earn the Best Orca Show in the Country and unlock the Orca Statue (MM)
-• Earn the Best Dolphin Show in the Country and unlock the Bottlenose Dolphin Statue (MM)
-• Win the Aquatic Show Park scenario and unlock the Show Grandstand 2 (MM)
-• Win the Shark World scenario and unlock the Photo Booth.
-• Win the Super Zoo scenario and unlock the Trio Statue.
+
+# Renaming NPCs
+
+| Name | Type | Gender | Description |
+| ------- | -----| ------ | ------- |
+| wonderland | Exhibit | ---- | Get a bonus toward the chance of guests entering the zoo. |
+| reindeer comet | Animal | ---- | Name a reindeer comet and all dinosaurs and dino eggs disappear from your zoo |
+| Microsoft | Exhibit | ---- | Get double the normal donations at exhibits. |
+| Rosalie | Tour Guide | Female | All your tour guides will work for free. (Rosalie is one of the Deep Gameplay Testers for Zoo Tycoon) |
+| Susan Kittleson | Zookeeper | Female | Zoo marketing effect is doubled (non-cumulative) (DD) |
+| Chuck Frizelle | Zookeeper | Male | Zoo marketing effect is doubled (non-cumulative) (DD) |
+| Russell C | Guest | ---- | All exhibit fences will become broken, letting the animals free. |
+
+## Awards
+
+| Action | Award |
+| ------- | -----| 
+| Penguins reach a happiness rating of 90+ | They will do a happy dance. |
+| Lowland gorillas reach a happiness of 90+ | They will do a happy dance. |
+| Earn the Zoo of the Year award | Unlock the Elephant Seal Statue (MM) |
+| Earn the Excellence in Arctic Exhibit Construction | Unlock the Iceberg. (MM) |
+| Earn the Best Sea Lion Show in the Country | Unlock the California Sea Lion Statue (MM) |
+| Earn the Best Orca Show in the Country | Unlock the Orca Statue (MM) |
+| Earn the Best Dolphin Show in the Country | Unlock the Bottlenose Dolphin Statue (MM) |
+| Win the Aquatic Show Park scenario | Unlock the Show Grandstand 2 (MM) |
+| Win the Shark World scenario | Unlock the Photo Booth. |
+| Win the Super Zoo scenario | Unlock the Trio Statue. |
+
