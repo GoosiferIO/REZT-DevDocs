@@ -70,7 +70,7 @@ The following is a table with all of the calls to the `addToBudget(..)` function
 | 12 | 00483f11 | 00484047 | Called every month to pay staff salary |
 | 13 | 0042ec49 | 0042ec81 | Unknown: Could be donations or benefactors? Triggers every few seconds, not sure what is being added or subtracted from budget. Values observed: 0.018, 0.013, 0.457, 0.406. |
 | 14 | 0042d858 | 0042d93f | Adds to budget when guest makes a purchase. Values observed: 2.00, 2.00, 2.00, 2.50. Buildings observed: Stands, vending machines, arcades. Todo: test other buildings. Interesting observation: A single payment is actually double the price you set. Ex: If you set to 1.25, you actually get paid 2.50. |
-| 15 | 0042ce0a | 005a981c | |
+| 15 | 0042ce0a | 005a981c | Dolphin show ticket purchase |
 \* *4a and 4b are called inside of the same structure. Unclear how this works or what that structure looks like.*
 
 ## `jonathanGilmourTribute(float &budget)`
