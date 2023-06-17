@@ -3,7 +3,7 @@ It seems to be a mapping between class names as strings and some constructor fun
 | Class Name | Init Function | Class Address |
 | ------- | -------- | ---------- |
 | DX8SndMgr | 0x5280c3 | cls_0x630a48 |
-| [[ZTGameMgr]] | 0x527dc7 | cls_0x6350d0 | 
+| [[ZTGameMgr]] | 0x527dc7 | cls_0x00638048 | 
 | ZTAIMgr | 0x525961 | cls_0x63536c | 
 | ZTScenarioMgr | 0x525e27 | cls_0x630d7c |
 | ZTMarketingMgr | 0x5257e7 | cls_0x635110 | 

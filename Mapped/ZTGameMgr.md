@@ -1,6 +1,6 @@
 This class appears to update many of the UI elements on the screen. As of this moment, only functionality related to the budget has been exposed in this class, but we speculate that there may be other member functions. It might make sense to see this class as the 'player state' class.
 
-This class is located at `0x0040F018`.
+At this time, it might seem that the class exists at 0x0040F018, but an instantiated form is found at 0x00638048.
 
 # Table of Contents
 
@@ -15,14 +15,37 @@ This class is located at `0x0040F018`.
 
 ## Structure
 
-| Member | Description | Location |
-| ------- | --------------- | ---------|
-| budget | Stores the value of the budget on the game screen | `*(zoo.exe + 0x00238048) + 0x0C`  |
-| subtractFromBudget(..) | Subtract from the budget | `*(zoo.exe + 0x41ef68)` |
-| [[#addToBudget(float &budget)]] | Adds to the budget | `*(zoo.exe + 0x0040F018)` |
-| [[#jonathanGilmourTribute(float &budget)]]| Adds $20,000 to the budget, 23321 points to research, among a few other .cfg-related settings | `*(zoo.exe + 0x006089E8)`|
+### Data Members
 
-## `addToBudget(float &budget)`
+The following offsets are added to the `*(0x638048)` pointer.
+
+| Member |  Offset | Data Type | Member Type | Description | 
+| ------- | --------------- | ---------| -----| ---- |
+| `ZooBudget` | `0x0C`  | float | Variable | Stores the value of the budget on the game screen |
+| `NumAnimals` | `0x30` | int | Variable | Number of animals in the zoo |
+| NumExhibits | `0x38` | int | Variable | Number of exhibits in the zoo |
+| `NumGuests` | `0x54` | int | Variable | Number of guests in the zoo |
+| `AdmissionsIncomeByMonth[12]` | `0x254` | float | Array | Stores admission income by month. Every element counts as one month. |
+| `ConcessionsBenefitByMonth[12]` | `0x29C` | float | Array | Stores concession benefit values by month. |
+| `RecyclingBenefitByMonth[12]` | `0x340` | float | Array | Stored recycling benefit values by month. |
+| `NetIncome` | `0x404` | float | Variable | Zoo net income |
+| `IncomeExpenseTotalsByMonth[12]` | `0x44C` | float | Array | Stores income expense totals by month |
+| `ZooRatingByMonth[12]` | `0x464` | float | Array | Calculated as the game runs, not at end of month |
+| `ZooRatingOverTime[12]` | `0x4C4` | float | Array | Stores the average zoo rating per month. |
+| `ContructionCostByMonth[12]` | `0x824` | float | Array | Stores construction costs by month. |
+
+### Functions 
+
+At the moment the following functions are speculative and are originally defined in the 0x0040F018 class. However, if we can find evidence that  the 0x00638048 pointer is an instantiated form of this class, these are also part of it. 
+
+| Member |  Location | Ret Type | Member Type | Description | 
+| ------- | --------------- | ---------| -----| ---- |
+| subtractFromBudget(..) | `*(zoo.exe + 0x41ef68)` | void | function | Subtract from the budget |
+| [[#addToBudget(float &budget)]] | `*(zoo.exe + 0x0040F018)` | void | function | Adds to the budget |
+| [[#jonathanGilmourTribute(float &budget)]]| `*(zoo.exe + 0x006089E8)` | void | function | Adds $20,000 to the budget, 23321 points to research, among a few other .cfg-related settings |
+
+
+## `addToBudget(float budget)`
 
 The first function we've exposed. This function adds to the existing budget on the screen. After the budget has been updated to memory, this function calls another at location `*(zoo.exe + 0x006089E8)`. It is not clear what this local function call is doing yet outside of listening for the budget to drop to $0. 
 
@@ -79,7 +102,13 @@ It seems to be parsing the configuration file and setting these attributes to va
 
 ```
 
-FUN_0042ec49:0042ec79(c), 0046bc5c(c), FUN_005a13c5:005a1671(c), FUN_006089e8:006089f4(c), FUN_0060d8e3:0060d9c7(c), FUN_00613e4a:00613f59(c), 00616bf2(c)
+FUN_0042ec49:0042ec79(c), 
+0046bc5c(c), 
+FUN_005a13c5:005a1671(c), 
+FUN_006089e8:006089f4(c), 
+FUN_0060d8e3:0060d9c7(c), 
+FUN_00613e4a:00613f59(c), 
+00616bf2(c)
 ```
 
 ### Other usage
