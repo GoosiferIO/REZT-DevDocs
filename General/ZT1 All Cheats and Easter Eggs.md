@@ -1,3 +1,7 @@
+Return to [start here](../start%20here.md) / [Mapped Code](Mapped%20Code.md) / [Global Functions](Global%20Functions.md) / [ztSecrets](../Mapped/ztSecrets%200044940B.md)
+
+# ZT1 All Cheats and Easter Eggs
+
 Credit to Jay and Fern for documenting these cheats. These will be essential to mapping many of the function calls within the cheat function, and will lead to other discoveries.
 
 Documentation on the cheat function is still early as not much is known, but more information is available here: [ztSecrets](../Mapped/ztSecrets%200044940B.md)

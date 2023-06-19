@@ -1,3 +1,5 @@
+Return to [start here](../start%20here.md) / [Mapped Code](../General/Mapped%20Code.md) / [ZTGameMgr](ZTGameMgr.md)
+
 # `ZTGameMgr::addToBudget(float deposit)`
 
 This function is found at location `0040F018`--coincidentally, the same location as its parent class: [ZTGameMgr](ZTGameMgr.md). 

@@ -1,3 +1,5 @@
+Return to [start here](../start%20here.md) / [Mapped Code](../General/Mapped%20Code.md) / [ZTGameMgr](ZTGameMgr.md)
+
 # `ZTGameMgr::subtractToBudget(float deposit)`
 
 Located at `0x0041EF68` and is part of the [ZTGameMgr](ZTGameMgr.md) class.

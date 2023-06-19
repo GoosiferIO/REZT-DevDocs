@@ -1,3 +1,5 @@
+Return to [start here](../start%20here.md) / [Mapped Code](../General/Mapped%20Code.md) / [ZTGameMgr](ZTGameMgr.md)
+
 # `ZTGameMgr::0x0040EE3D`
 
 This function is called inside of [ZTGameMgr::addToBudget](ZTGameMgr%20addToBudget%200040F018.md), but we know very little about how it operates yet. Below is a rough decompile from Ghidra to get a sense of what it might be doing. It looks like it's casting the budget value to an int32 and then making a comparison check for 0. 

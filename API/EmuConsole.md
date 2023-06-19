@@ -1,3 +1,5 @@
+Return to [start here](../start%20here.md) / [API Code](../General/API%20Code.md)
+
 # `EmuConsole`
 
 One of the core features for this API is the command console. A lot of the debugging and testing of reversed functions and classes might utilize it.

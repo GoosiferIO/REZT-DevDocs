@@ -1,3 +1,5 @@
+Return to [start here](../start%20here.md) / [Mapped Code](../General/Mapped%20Code.md) / [Global Functions](../General/Global%20Functions.md)
+
 # ztSecrets
 
 This function is located at `0044940B`. It does not appear to be part of a greater class.

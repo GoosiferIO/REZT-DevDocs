@@ -1,3 +1,5 @@
+Return to [start here](../start%20here.md) / [Mapped Code](../General/Mapped%20Code.md)
+
 # `main` `
 
 `main(..)` is located at `0x004CBDF6`. Unclear if this is the main game loop or if another function owns that role. What seems clear is that this is handling many of the game's message management so it very well might be functioning as the message loop.

@@ -1,3 +1,7 @@
+Return to [start here](../start%20here.md) / [Mapped Code](../General/Mapped%20Code.md)
+
+# `BFRegistry`
+
 This structure seems to be a mapping between class names as strings and some constructor functions. Notably, it looks to be creating relationships between the string names of a class and the pointer to that class. Below is a table that connects some of these relationships:
 
 | Class Name | Init Function | Class Address |

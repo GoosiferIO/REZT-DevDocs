@@ -1,3 +1,5 @@
+Return to [start here](../start%20here.md) / [Mapped Code](../General/Mapped%20Code.md) / [ZTGameMgr](ZTGameMgr.md)
+
 # `jonathanGilmourTribute(float budget)`
 
 This function is located at `006089E8` and is part of the [ZTGameMgr](ZTGameMgr.md) class.
