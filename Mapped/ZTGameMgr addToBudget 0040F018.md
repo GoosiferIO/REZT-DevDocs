@@ -4,6 +4,12 @@ This function is found at location `0040F018`--coincidentally, the same location
 
 It adds to the existing budget on the visible UI. After the budget has been updated to memory, this function calls another:  [ZTGameMgr::0x0040EE3D](ZTGameMgr%200040EE3D.md). It is not clear what this local function call is doing.
 
+# Table of Contents
+
+[Decompile](#Decompile)
+[XREFs](#XREFs)
+	[Recent developments concerning this table](#Recent%20developments%20concerning%20this%20table)
+
 # Decompile
 
 Below is a rough decompile from Ghidra:
