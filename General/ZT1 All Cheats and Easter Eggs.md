@@ -1,6 +1,6 @@
 Credit to Jay and Fern for documenting these cheats. These will be essential to mapping many of the function calls within the cheat function, and will lead to other discoveries.
 
-Documentation on the cheat function is still early as not much is known, but more information is available here: [[Global Functions]]
+Documentation on the cheat function is still early as not much is known, but more information is available here: [ztSecrets](../Mapped/ztSecrets%200044940B.md)
 
 This cheat list has been restructured as a table for readability. Permission to host this cheat list was given by Jay and Fern. This list is exactly as it was written by Jay and Fern:
 

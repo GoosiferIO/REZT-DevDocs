@@ -1,3 +1,5 @@
+# `ZTGameMgr`
+
 This class appears to update many of the UI elements on the screen. As of this moment, only functionality related to the budget has been exposed in this class, but we speculate that there may be other member functions. It might make sense to see this class as the 'player state' class.
 
 At this time, it might seem that the class exists at `0x0040F018`, but an instantiated form is found at this pointer: `0x00638048`.
@@ -7,13 +9,13 @@ At this time, it might seem that the class exists at `0x0040F018`, but an instan
 # Table of Contents
 
 [[#Structure]]
-1. [Data Members](#Data%20Members)
-2. [Need More Testing](#Need%20More%20Testing)
-3. [Class Functions](#Class%20Functions)
+	[Data Members](#Data%20Members)
+	[Need More Testing](#Need%20More%20Testing)
+	[Class Functions](#Class%20Functions)
 
-## Structure
+# Structure
 
-### Data Members
+## Data Members
 
 The following offsets are added to the `*(0x638048)` pointer.
 
@@ -31,7 +33,7 @@ The following offsets are added to the `*(0x638048)` pointer.
 | `ZooRatingByMonth[12]` | `0x464` | float | Array | Calculated as the game runs, not at end of month |
 | `ContructionCostByMonth[12]` | `0x824` | float | Array | Stores construction costs by month. |
 
-### Need More Testing
+## Need More Testing
 
 The following need more testing to make sure they stay consistent across saves.
 
@@ -46,7 +48,7 @@ The following need more testing to make sure they stay consistent across saves.
 | `ZooAdmissionCost` | `0x1150` | float | Variable | Admission cost for an adult ticket to enter the zoo. Child ticket is a calculated value divided by half. |
 | `ZooValueOverTime[12]` | `0x434` | float | Array | Zoo value over time. This one is cool because it's not available in the game. |
 
-### Data Types Possibly Identified But Purpose Unknown
+## Data Types Possibly Identified But Purpose Unknown
 
 We have a rough idea of what the data types for the following resources are, but have not identified their purpose.
 
@@ -68,12 +70,12 @@ We have a rough idea of what the data types for the following resources are, but
 | `Unknown[12]` | `0x674` | float | Array | Array of unknown purpose. 48 bytes, 12 members. |
 | `Unknown[12]` | `0x6A4` | float | Array | Array of unknown purpose. 48 bytes, 12 members. |
 
-### Class Functions 
+# Class Functions 
 
 At the moment the following functions are speculative and are originally defined in the `0x0040F018` class. However, if we can find evidence that  the `0x00638048` pointer is an instantiated form of this class, these are also part of it. 
 
 | Member |  Location | Ret Type | Member Type | Description | 
 | ------- | --------------- | ---------| -----| ---- |
-| [subtractFromBudget](ZTGameMgr%20subtractFromBudget.md) | `0x0041EF68` | void | function | Subtract from the budget |
-| [addToBudget](ZTGameMgr%20addToBudget.md) | `0x0040F018` | void | function | Adds to the budget |
-| [jonathanGilmourTribute](ZTGameMgr%20jonathanGilmourTribute.md) | `0x006089E8` | void | function | Adds $20,000 to the budget, 23321 points to research, among a few other .cfg-related settings |
+| [subtractFromBudget](ZTGameMgr%20subtractFromBudget%200041EF68.md) | `0x0041EF68` | void | function | Subtract from the budget |
+| [addToBudget](ZTGameMgr%20addToBudget%200040F018.md) | `0x0040F018` | void | function | Adds to the budget |
+| [jonathanGilmourTribute](ZTGameMgr%20jonathanGilmourTribute%20006089E8.md) | `0x006089E8` | void | function | Adds $20,000 to the budget, 23321 points to research, among a few other .cfg-related settings |

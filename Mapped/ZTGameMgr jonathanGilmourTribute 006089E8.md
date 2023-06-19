@@ -1,6 +1,19 @@
-## `jonathanGilmourTribute(float budget)`
+# `jonathanGilmourTribute(float budget)`
 
-This function is a cheat function. It adds $20,000 to the zoo budget when a male zookeeper is named "Jonathan Gilmour" among other attributes. It is located at `006089E8`.
+This function is located at `006089E8` and is part of the [ZTGameMgr](ZTGameMgr.md) class.
+
+This function is a cheat function. It adds $20,000 to the zoo budget when a male zookeeper is named "Jonathan Gilmour" among other attributes. 
+
+# Table of Contents
+
+[Decompile](#Decompile)
+[skeeper04.cfg](#skeeper04.cfg)
+	[Attributes](ZTGameMgr%20jonathanGilmourTribute%20006089E8.md#Attributes)
+	[Other usage](#Other%20usage)
+[Other cheat functions](#Other%20cheat%20functions)
+[[#XREFs]]
+
+# Decompile
 
 Below is a rough decompile from Ghidra:
 
@@ -14,7 +27,7 @@ void __thiscall OOAnalyzer::cls_0x40f018::meth_0x6089e8(cls_0x40f018 *this,float
 }
 ```
 
-## skeeper04.cfg
+# skeeper04.cfg
 
  In order for this function to activate, a file originally distributed by Blue Fang named `skeeper04.cfg` needs to be saved in the `Zoo Tycoon/dlupdate` folder. This is a simple text file with the following contents:
 
@@ -56,6 +69,14 @@ Many mods have used `skeepr04.cfg` by changing the attributes within to create t
 
 This function is only called once, so its purpose is clear.
 
-## Other cheat functions
+# Other cheat functions
 
 This function is only called once, and this is how the cheat function was discovered. For more information on that cheat function, please see [[Global Functions]].
+
+# XREFs
+
+This function is called from the following location. (only one)
+
+| Function Name | Function Location | Call Location | Access Type | Context |
+| ---- | ---- | ---- | ---- | ---- |
+| [jonathanGilmourTribute](ZTGameMgr%20jonathanGilmourTribute%20006089E8.md) | 0044940B | 005CB6B6 | (c) | Adds $20,000 to budget if string matches with name given in `skeepr04.cfg` among other things. See above. |
