@@ -67,7 +67,7 @@ FUN_00613e4a:00613f59(c),
 
 Many mods have used `skeepr04.cfg` by changing the attributes within to create their own cheat. Because no efforts to reverse engineer the game have been made, all of these cheat mods do the same thing in the end. They all add to the budget, and modify the same attributes listed above.
 
-This function is only called once, so its purpose is clear.
+This function is only called from one location, so its purpose is clear.
 
 # Other cheat functions
 
@@ -79,4 +79,4 @@ This function is called from the following location. (only one)
 
 | Function Name | Function Location | Call Location | Access Type | Context |
 | ---- | ---- | ---- | ---- | ---- |
-| [jonathanGilmourTribute](ZTGameMgr%20jonathanGilmourTribute%20006089E8.md) | 0044940B | 005CB6B6 | (c) | Adds $20,000 to budget if string matches with name given in `skeepr04.cfg` among other things. See above. |
+| [ztSecrets](ztSecrets%200044940B.md) | 0044940B | 005CB6B6 | (c) | Adds $20,000 to budget if string matches with name given in `skeepr04.cfg` among other things. See above. |
