@@ -1,9 +1,10 @@
 We have mapped some code to virtual memory. This page will be a living document as we figure out the general structure of the code. For now, Everything has been split up into categories below:
 
-## **Entry Point/Main**
+## **Global Functions**
 
 - entry
 - [main](../Mapped/main.md)
+- [Other Global Functions](Global%20Functions.md)
 
 ## **UI Structures:**
 
