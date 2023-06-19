@@ -2,51 +2,48 @@ Credit to Jay and Fern for documenting these cheats. These will be essential to 
 
 Documentation on the cheat function is still early as not much is known, but more information is available here: [[Global Functions]]
 
-This cheat list has been restructured as a table for readability, and there is still more near the bottom to reformat. Permission to host this cheat list was given by Jay. This list is exactly as it was written by Jay and Fern:
+This cheat list has been restructured as a table for readability. Permission to host this cheat list was given by Jay and Fern. This list is exactly as it was written by Jay and Fern:
 
 # Table of Contents
 
 [Cheats](#Cheats)
 [Easter Eggs](#Easter%20Eggs)
-  [Event-Based](#Event-Based)
-  [Misc](#Misc)
+[Event-Based](#Event-Based)
+[Misc](#Misc)
 [Secrets](#Secrets)
-  [NPC Name Secrets](#NPC%20Name%20Secrets)
-  [Drop into Enclosure](#Drop%20into%20Enclosure)
+[NPC Name Secrets](#NPC%20Name%20Secrets)
+[Drop into Enclosure](#Drop%20into%20Enclosure)
 [Rumors](#Rumors)
-  [Renaming NPCs](#Renaming%20NPCs)
-  [Awards](#Awards)
-
-# Cheats
-
-To rename a guest, employee, or exhibit, click the desired object, then type a new name into the
-Info panel.
-
-| Name | Type | Gender | Description |
-| ------- | -----| ------ | ------- |
-| Adam Levesque | Guest | ---- | Unlock all Animal Care research programs. (Adam Levesque is the CEO of Blue Fang and Creative Director for Zoo Tycoon.) |
-| Lou Catanzaro | Guest | ---- | Unlock all Animal Enrichment research programs. |
-| Charlie Peterson | Guest | ---- | Unlock all exhibit foliage. (Charlie Peterson is one of the Program Managers on Zoo Tycoon.) |
-| Akiyama | Guest | ---- | Unlock all the scenarios that ship with the game. (Akiyama is the family name of one of the test team members.) |
-| Steve Serafino | Guest | ---- | Unlock all Endangered Animals research programs. (Steve Serafino is one of the designers of Zoo Tycoon.) |
-| John Wheeler | Guest | ---- | Unlock all animal shelters (John Wheeler is the Engineering Director for Zoo Tycoon) |
-| Ron Propst | Guest | ---- | Unlock the Dinosaur Foliage research program (DD). |
-| Hank Howie | Guest | ---- | Unlock all Staff Education research programs. |
-| Eggman | Guest | ---- | Dinosaur eggs hatch more quickly. (DD) |
-| Dinoman | Guest | ---- | Unlock all dinosaurs. (DD) |
-| Bob V | Maintenance Worker | Male | All currently broken fences are fixed. ("Bob V" refers to Bob Villa, the well-known home improvement show host.) |
-|  Dr. Scholl | Scientist | ---- | All scientists walk twice as fast. (DD) |
-|Cretaceous Corral | Exhibit | ---- | Unlock the Triceratops |
-| Xanadu | Exhibit | ---- | Unlock the Unicorn. (Xanadu was Kublai Khan's summer capital in China, where he met Marco Polo in 1275. It is also the title of a poem by Samuel Taylor Coleridge.) |
-| Super Croc | Exhibit | ---- | Unlock Deinosuchus. |
-| Press <Shift + 4> | Command | ---- | Get $10,000, but a random exhibit fence weakens (great time for the Bob V cheat!). |
-
+[Renaming NPCs](#Renaming%20NPCs)
+[Awards](#Awards)
+- # Cheats
+  
+  To rename a guest, employee, or exhibit, click the desired object, then type a new name into the
+  Info panel.
+  
+  | Name | Type | Gender | Description |
+  | --------------------------------------- | -----| ------ | ------- |
+  | Adam Levesque | Guest | ---- | Unlock all Animal Care research programs. (Adam Levesque is the CEO of Blue Fang and Creative Director for Zoo Tycoon.) |
+  | Lou Catanzaro | Guest | ---- | Unlock all Animal Enrichment research programs. |
+  | Charlie Peterson | Guest | ---- | Unlock all exhibit foliage. (Charlie Peterson is one of the Program Managers on Zoo Tycoon.) |
+  | Akiyama | Guest | ---- | Unlock all the scenarios that ship with the game. (Akiyama is the family name of one of the test team members.) |
+  | Steve Serafino | Guest | ---- | Unlock all Endangered Animals research programs. (Steve Serafino is one of the designers of Zoo Tycoon.) |
+  | John Wheeler | Guest | ---- | Unlock all animal shelters (John Wheeler is the Engineering Director for Zoo Tycoon) |
+  | Ron Propst | Guest | ---- | Unlock the Dinosaur Foliage research program (DD). |
+  | Hank Howie | Guest | ---- | Unlock all Staff Education research programs. |
+  | Eggman | Guest | ---- | Dinosaur eggs hatch more quickly. (DD) |
+  | Dinoman | Guest | ---- | Unlock all dinosaurs. (DD) |
+  | Bob V | Maintenance Worker | Male | All currently broken fences are fixed. ("Bob V" refers to Bob Villa, the well-known home improvement show host.) |
+  |  Dr. Scholl | Scientist | ---- | All scientists walk twice as fast. (DD) |
+  |Cretaceous Corral | Exhibit | ---- | Unlock the Triceratops |
+  | Xanadu | Exhibit | ---- | Unlock the Unicorn. (Xanadu was Kublai Khan's summer capital in China, where he met Marco Polo in 1275. It is also the title of a poem by Samuel Taylor Coleridge.) |
+  | Super Croc | Exhibit | ---- | Unlock Deinosuchus. |
+  | Press <Shift + 4> | Command | ---- | Get $10,000, but a random exhibit fence weakens (great time for the Bob V cheat!). |
 # Easter Eggs
 
 Easter eggs are surprises that you may or may not run across as you play. Many of these are
 date-depended, but pay attention—some relate to the in-game date and others to the real-world
 calendar.
-
 ## Event-Based
 
 | Date | Calendar Type | Description |
@@ -57,17 +54,14 @@ calendar.
 | October 31 | Real-World | All guests and buildings wear orange and black in honor of Halloween, a jack-o-lantern is available from the buildings and items menu, and a wicked witch flies over the zoo on a broomstick. |
 | October 31 | In-Game | A witch flies over the zoo on a broomstick and a jack-o-lantern is available from the buildings and items panel. |
 | December 25 | In-Game | Santa Claus flies over the zoo in his sleigh. |
-
 ## Misc 
 
 | Type | Description |
 | ---- | ---- |
 | Animal behavior | On their own turf, penguins are capable of killing pretty much any animal in the zoo. |
-
 # Secrets
 
 Secrets are sort of a combination of the two, and are mostly just for fun. Enjoy!
-
 ### NPC Name Secrets
 
 | Name | Type | Gender | Description |
@@ -88,18 +82,15 @@ Secrets are sort of a combination of the two, and are mostly just for fun. Enjoy
 | Stinky | Guest | ---- | The guest causes other guests to be sick. (MM) |
 | rpro | Guest | Male | Female guests will run from him. (MM) |
 | Boogyman | Guest | Male | The guest causes children to run away screaming. (MM) |
-
 ## Drop into Enclosure
 
 | Object | Place Where | Description | 
 | ---- | ---- | ---- |
 | Mermaid Statue | Exhibit or show tank | It changes into a real mermaid. The mermaid will not appear in the adopt an animal menu; however, you can continue dropping however, you can continue dropping Mermaid Statues into water tanks to "adopt" more. |
 | Lion, bengal tiger, or bear | Empty exhibit | Unlock golden brick walkways |
-
 # Rumors
 
 Unconfirmed rumors that we might or might not have heard...
-
 # Renaming NPCs
 
 | Name | Type | Gender | Description |
@@ -111,7 +102,6 @@ Unconfirmed rumors that we might or might not have heard...
 | Susan Kittleson | Zookeeper | Female | Zoo marketing effect is doubled (non-cumulative) (DD) |
 | Chuck Frizelle | Zookeeper | Male | Zoo marketing effect is doubled (non-cumulative) (DD) |
 | Russell C | Guest | ---- | All exhibit fences will become broken, letting the animals free. |
-
 ## Awards
 
 | Action | Award |
@@ -126,4 +116,3 @@ Unconfirmed rumors that we might or might not have heard...
 | Win the Aquatic Show Park scenario | Unlock the Show Grandstand 2 (MM) |
 | Win the Shark World scenario | Unlock the Photo Booth. |
 | Win the Super Zoo scenario | Unlock the Trio Statue. |
-
