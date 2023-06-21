@@ -2,7 +2,7 @@ Return to [start here](../start%20here.md)
 
 # Mapped Code
 
-We have mapped some code to virtual memory. This page will be a living document as we figure out the general structure of the code. For now, Everything has been split up into categories below:
+We have mapped some code to virtual memory. This page will be a living document as we figure out the general structure of the code. For now, everything has been split up into categories below:
 
 # Table of Contents
 

@@ -8,7 +8,7 @@ This file can be found in `~/Zoo Tycoon/<unzip scenario.ztd>/scenario/example/ex
 
 # `example.scn`
 
-```JSON
+```ini
 ; $Id: example.scn,v 1.11 2002/03/28 16:10:34 sds Exp $
 
 [desc]
