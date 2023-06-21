@@ -12,7 +12,8 @@ At this time, it might seem that the class exists at `0x0040F018`, but an instan
 
 [[#Structure]]
 	[Data Members](#Data%20Members)
-	[Need More Testing](#Need%20More%20Testing)
+		[Need More Testing](#Need%20More%20Testing)
+		[[#Data Types Possibly Identified But Purpose Unknown]]
 	[Class Functions](#Class%20Functions)
 
 # Structure
@@ -35,7 +36,7 @@ The following offsets are added to the `*(0x638048)` pointer.
 | `ZooRatingByMonth[12]` | `0x464` | float | Array | Calculated as the game runs, not at end of month |
 | `ContructionCostByMonth[12]` | `0x824` | float | Array | Stores construction costs by month. |
 
-## Need More Testing
+### Need More Testing
 
 The following need more testing to make sure they stay consistent across saves.
 
@@ -50,7 +51,7 @@ The following need more testing to make sure they stay consistent across saves.
 | `ZooAdmissionCost` | `0x1150` | float | Variable | Admission cost for an adult ticket to enter the zoo. Child ticket is a calculated value divided by half. |
 | `ZooValueOverTime[12]` | `0x434` | float | Array | Zoo value over time. This one is cool because it's not available in the game. |
 
-## Data Types Possibly Identified But Purpose Unknown
+### Data Types Possibly Identified But Purpose Unknown
 
 We have a rough idea of what the data types for the following resources are, but have not identified their purpose.
 
@@ -80,5 +81,5 @@ At the moment the following functions are speculative and are originally defined
 | ------- | --------------- | ---------| -----| ---- |
 | [subtractFromBudget](ZTGameMgr%20subtractFromBudget%200041EF68.md) | `0041EF68` | void | function | Subtract from the budget |
 | [addToBudget](ZTGameMgr%20addToBudget%200040F018.md) | `0040F018` | void | function | Adds to the budget |
-| [jonathanGilmourTribute](ZTGameMgr%20jonathanGilmourTribute%20006089E8.md) | `006089E8` | void | function | Adds $20,000 to the budget, 23321 points to research, among a few other .cfg-related settings |
+| [ultZKeeperCheat](ZTGameMgr%20ultZKeeperCheat%20006089E8.md) | `006089E8` | void | function | Adds $20,000 to the budget, 23321 points to research, among a few other .cfg-related settings |
 | [0040EE3D](ZTGameMgr%200040EE3D.md) | `0040EE3D` | unknown | function | This function is called inside of addToBudget and subtractFromBudget. Not much else is known. |

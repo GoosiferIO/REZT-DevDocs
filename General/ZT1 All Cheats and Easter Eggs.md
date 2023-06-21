@@ -72,7 +72,7 @@ calendar.
 
 Secrets are sort of a combination of the two, and are mostly just for fun. Enjoy!
 
-### NPC Name Secrets
+## NPC Name Secrets
 
 | Name | Type | Gender | Description |
 | ------- | -----| ------ | ------- |
@@ -104,7 +104,7 @@ Secrets are sort of a combination of the two, and are mostly just for fun. Enjoy
 
 Unconfirmed rumors that we might or might not have heard...
 
-# Renaming NPCs
+## Renaming NPCs
 
 | Name | Type | Gender | Description |
 | ------- | -----| ------ | ------- |

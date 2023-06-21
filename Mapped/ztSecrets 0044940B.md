@@ -2,13 +2,14 @@ Return to [start here](../start%20here.md) / [Mapped Code](../General/Mapped%20C
 
 # ztSecrets
 
-This function is located at `0044940B`. It does not appear to be part of a greater class.
+> [!notice]
+> It turns out that this function is actually part of a greater class at `62d950` and is called by a virtual function in this class at `449515`.
 
-This function serves as a switchboard for all of the cheat, easter egg, and secret functions in the game. For the purpose of sanity, we will call all three 'secrets.' To read a full list of all of the secrets in this game, please see: [ZT1 All Cheats and Easter Eggs](../General/ZT1%20All%20Cheats%20and%20Easter%20Eggs.md)
+This function serves as a switchboard for all of the cheat, easter egg, and secret functions in the game. For the purpose of sanity and generality, we will call all three 'secrets.' To read a full list of all of the secrets in this game, please see: [ZT1 All Cheats and Easter Eggs](../General/ZT1%20All%20Cheats%20and%20Easter%20Eggs.md)
 
 Every staff or guest name is explicitly named and a conditional in the switch statement, so it's possible that they're not actually pulled from a serialized data container or a configuration file--these might be strings that are hardcoded into the switch statement. However, this function has not yet been tested, and the only reason this is brought up is because other decompilation tools present the names as strings, while Ghidra shows a data container with a named label.
 
-Note that the only cheat whose 'cheat name' *is not* explicitly named inside of this structure is the [Jonathan Gilmour Cheat](ZTGameMgr%20jonathanGilmourTribute%20006089E8.md). 
+Note that the only cheat whose 'cheat name' *is not* explicitly named inside of this structure is the [Jonathan Gilmour Cheat](ZTGameMgr%20ultZKeeperCheat%20006089E8.md). 
 
 `ztSecrets` has not been completely studied, but will help reverse many other areas of the code.
 
@@ -19,7 +20,7 @@ Note that the only cheat whose 'cheat name' *is not* explicitly named inside of 
 
 # Decompile
 
-```C++
+```Cpp
 void __cdecl FUN_0044940b(int *param_1,undefined4 param_2,byte **param_3)
 
 {

@@ -2,6 +2,9 @@ Return to [start here](../start%20here.md) / [Mapped Code](../General/Mapped%20C
 
 # `ZTGameMgr::0x0040EE3D`
 
+> [!notice]
+> On further inspection, this function does not appear to be a function under ZTGameMgr. Will be moved.
+
 This function is called inside of [ZTGameMgr::addToBudget](ZTGameMgr%20addToBudget%200040F018.md), but we know very little about how it operates yet. Below is a rough decompile from Ghidra to get a sense of what it might be doing. It looks like it's casting the budget value to an int32 and then making a comparison check for 0. 
 
 Originally it was assumed that this was the check for the relief fund when zoo funds are low, but that turned out to be false. That job seems to belong to this function here: [00635510::005A13C5](00635510%20005A13C5.md)

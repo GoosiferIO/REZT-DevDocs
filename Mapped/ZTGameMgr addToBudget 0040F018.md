@@ -29,7 +29,7 @@ void __thiscall OOAnalyzer::cls_0x40f018::meth_0x40f018(cls_0x40f018 *this,float
 
 # XREFs
 
-The following is a table listing all of the calls to the `addToBudget` function in the assembly code. The second column is the address to the function where it is called, third column is the location of the `addToBudget` call within that function, and the fourth column is the context of that call (what triggers this call). This mapping will help us identify what the functions in the first column are doing.
+The following is a table listing all of the calls to the `addToBudget` function in the assembly code. The second column is the address to the function where it is called, third column is the location of the `addToBudget` call within that function, and the fourth column is the context of that call (what triggers this call). This mapping will help us identify what the Calling Functions are doing.
 
 | Call Num | Calling Function | addToBudget Location | Calling Function Context |
 | --- | ----- | ---------- | ---------|

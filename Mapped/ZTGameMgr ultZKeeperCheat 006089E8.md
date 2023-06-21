@@ -1,6 +1,6 @@
 Return to [start here](../start%20here.md) / [Mapped Code](../General/Mapped%20Code.md) / [ZTGameMgr](ZTGameMgr.md)
 
-# `jonathanGilmourTribute(float budget)`
+# `ultZKeeperCheat(float budget)`
 
 This function is located at `006089E8` and is part of the [ZTGameMgr](ZTGameMgr.md) class.
 
@@ -10,7 +10,7 @@ This function is a cheat function. It adds $20,000 to the zoo budget when a male
 
 [Decompile](#Decompile)
 [skeeper04.cfg](#skeeper04.cfg)
-	[Attributes](ZTGameMgr%20jonathanGilmourTribute%20006089E8.md#Attributes)
+	[Attributes](ZTGameMgr%20ultZKeeperCheat%20006089E8.md#Attributes)
 	[Other usage](#Other%20usage)
 [Other cheat functions](#Other%20cheat%20functions)
 [[#XREFs]]
