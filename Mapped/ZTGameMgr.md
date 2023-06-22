@@ -47,8 +47,8 @@ The following need more testing to make sure they stay consistent across saves.
 | `NumHungryGuests` | `0x30` | int | Variable | How many hungry guests in zoo |
 | `NumThirstyGuests` | `0x44` | int | Variable | How many thirsty guests in zoo |
 | `NumGuestsNeedRestrm` | `0x48` | int | Variable | How many guests in zoo need to use the loo. |
-| `NumGuestsInFilter` | `0x50` | int | Variable | This is effectively the total number of guests in the zoo, but specific to the filter dialog, it's in reference to how many guests are in the filter. |
-| `ZooAdmissionCost` | `0x1150` | float | Variable | Admission cost for an adult ticket to enter the zoo. Child ticket is a calculated value divided by half. |
+| `NumGuestsInFilter` | `0x54` | int | Variable | This is effectively the total number of guests in the zoo, but specific to the filter dialog, it's in reference to how many guests are in the filter. |
+| `ZooAdmissionCost` | `0x1160` | float | Variable | Admission cost for an adult ticket to enter the zoo. Child ticket is a calculated value divided by half. |
 | `ZooValueOverTime[12]` | `0x434` | float | Array | Zoo value over time. This one is cool because it's not available in the game. |
 
 ### Data Types Possibly Identified But Purpose Unknown

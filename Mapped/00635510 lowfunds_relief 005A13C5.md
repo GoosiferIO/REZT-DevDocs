@@ -2,12 +2,25 @@ Return to [start here](../start%20here.md) / [Mapped Code](../General/Mapped%20C
 
 # `00635510::005A13C5`
 
-This function decides whether to give a player 500,000 or 10,000 from the relief fund, among other things most of which are yet to be figured out.
+This function decides whether to give a player 500,000 or 10,000 from the relief fund, among other things most of which are yet to be figured out. It is one of the ten functions controlled by [[00635510 trulea_switch 004FC783| 00635510::trulea_switch]]. 
 
 # Table of Contents
 
 [Decompile](#Decompile)
 [XREFs](#XREFs)
+
+# Analysis
+
+It turns out that each one of these functions are the result of the `trulea` value described in the [[Official Scenario Documentation Reference]]. Below we can see the snippet relevant to this function:
+
+```ini
+; Trigger 3 (trulea = 3)
+; targa (Amount of cash.)
+; targb (Unused or resource ID for message - use %s to capture dollar amount.)
+; 0 Donate cash. (Shows up in donations column.)
+; 1 Add cash. (Doesn't show up in finance sheet.)
+; 2 Set cash. (Brute force sets the cash amount.)
+```
 
 # Decompile 
 
@@ -89,4 +102,4 @@ This function seems to be referenced from the following locations:
 
 | Function Name | Function Location | Call Location | Access Type | Context |
 | ---- | ---- | ---- | ---- | ---- |
-| | [00635510::004FC783](00635510%20004FC783.md) | 005A13E5 | (c) | Appears to be part of some switch statement and is a function call given a true conditional. It is among 10 other functions in this switch statement. |
+| [[00635510 trulea_switch 004FC783 \| 00635510::trulea_switch]] | 004FC783 | 005A13E5 | (c) | Appears to be part of some switch statement and is a function call given a true conditional. It is among 10 other functions in this switch statement. |
