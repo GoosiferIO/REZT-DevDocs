@@ -9,7 +9,7 @@ This structure seems to be a mapping between class names as strings and some con
 | [[ZTApp]] | | 0x00638148 |
 | DX8SndMgr | 0x5280c3 | 0x630a48 |
 | [[ZTGameMgr]] | 0x527dc7 | 0x00638048 | 
-| ZTAIMgr | 0x525961 | 0x63536c | 
+| [[ZTAIMgr]] | 0x525961 | 0x63536c | 
 | ZTScenarioMgr | 0x525e27 | 0x630d7c |
 | ZTMarketingMgr | 0x5257e7 | 0x635110 | 
 | ZTAdvTerrainMgr | 0x525470 | 0x630ad8 |

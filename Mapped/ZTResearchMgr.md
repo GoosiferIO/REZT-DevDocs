@@ -8,8 +8,8 @@ The class constructor is at `0x00635100`.
 
 # Table of Contents
 
-[Structure](app://obsidian.md/index.html#Structure)  
-[Class Functions](app://obsidian.md/index.html#Class%20Functions)
+[[#Structure]]
+   [[#Class Functions]]
 
 # Structure
 

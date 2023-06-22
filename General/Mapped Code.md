@@ -32,7 +32,7 @@ These structures appear to manipulate the UI in some capacity.
 - ZTMapView
 - ZTMegatileMgr
 - ZTMarketingMgr
-- ZTResearchMgr
+- [[ZTResearchMgr]]
 - ZTThoughtMgr
 - ZTWorldMgr
 
@@ -41,7 +41,7 @@ These structures appear to manipulate the UI in some capacity.
 These structures might involve constant logic flow to control the game behavior.
 
 - ZTHabitatMgr
-- ZTAIMgr
+- [[ZTAIMgr]]
 - ZTScenarioMgr
 - ZTShowMgr
 
