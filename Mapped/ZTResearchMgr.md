@@ -2,9 +2,9 @@ Return to [start here](app://obsidian.md/start%20here.md) / [Mapped Code](app
 
 # `ZTResearchMgr
 
-Not much is known about this class works yet, but given its namesake, it's likely to to with research. 
+Not much is known about this class works yet, but given its namesake, it's likely to do with research. 
 
-The class constructor is at `0x00638148`.
+The class constructor is at `0x00635100`.
 
 # Table of Contents
 
@@ -15,8 +15,8 @@ The class constructor is at `0x00638148`.
 
 ## Class Functions
 
-These are the only known functions part of this structure at this time.
+This is the only known function part of this structure at this time.
 
 |Member|Location|Ret Type|Member Type|Description|
 |---|---|---|---|---|
-|updateGame|`0041A6D1`|void|function|Part of the main game loop. Updates some class instances.|
+||`*(00639010) + 4`|unknown|virtual function|Possibly a pointer to virtual function. Not much information given by Ghidra.|
