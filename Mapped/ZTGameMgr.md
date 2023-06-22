@@ -4,7 +4,7 @@ Return to [start here](../start%20here.md) / [Mapped Code](../General/Mapped%20C
 
 This class appears to update many of the UI elements on the screen. As of this moment, only functionality related to the budget has been exposed in this class, but we speculate that there may be other member functions. It might make sense to see this class as the 'player state' class.
 
-At this time, it might seem that the class exists at `0x0040F018`, but an instantiated form is found at this pointer: `0x00638048`.
+The class exists at `0x0040F018`, and its constructor is at`0x00638048`.
 
 `ZTGameMgr` extends all of the way to offset `0x11B0`.
 
@@ -81,5 +81,5 @@ At the moment the following functions are speculative and are originally defined
 | ------- | --------------- | ---------| -----| ---- |
 | [subtractFromBudget](ZTGameMgr%20subtractFromBudget%200041EF68.md) | `0041EF68` | void | function | Subtract from the budget |
 | [addToBudget](ZTGameMgr%20addToBudget%200040F018.md) | `0040F018` | void | function | Adds to the budget |
-| [ultZKeeperCheat](ZTGameMgr%20ultZKeeperCheat%20006089E8.md) | `006089E8` | void | function | Adds $20,000 to the budget, 23321 points to research, among a few other .cfg-related settings |
+| [ultZKeeperCheat](ZTGameMgr%20uzKeeprCheat%20006089E8.md) | `006089E8` | void | function | Adds $20,000 to the budget, 23321 points to research, among a few other .cfg-related settings |
 | [0040EE3D](ZTGameMgr%200040EE3D.md) | `0040EE3D` | unknown | function | This function is called inside of addToBudget and subtractFromBudget. Not much else is known. |

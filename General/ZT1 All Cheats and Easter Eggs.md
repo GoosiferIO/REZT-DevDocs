@@ -6,7 +6,11 @@ Credit to Jay and Fern for documenting these cheats. These will be essential to 
 
 Documentation on the cheat function is still early as not much is known, but more information is available here: [ztSecrets](../Mapped/ztSecrets%200044940B.md)
 
-This cheat list has been restructured as a table for readability. Permission to host this cheat list was given by Jay and Fern. This list is exactly as it was written by Jay and Fern:
+This cheat list has been restructured as a table for readability. Permission to host this cheat list was given by Jay and Fern. This list is exactly as it was written by Jay and Fern.
+
+This note from Jay is particularly important to consider if this list is used as a reference:
+
+> I also suspect that upper case versus lower case matters. So, for example, "Comet" and "wonderland" probably work, and "comet" and "Wonderland" probably do not work. If that is the case, then both the above list and the one at ZKL (which differ at times) have mistakes.
 
 # Table of Contents
 
@@ -25,7 +29,7 @@ This cheat list has been restructured as a table for readability. Permission to 
   
   To rename a guest, employee, or exhibit, click the desired object, then type a new name into the
   Info panel.
-  
+ 
   | Name | Type | Gender | Description |
   | ------ | -----| ------ | ------- |
   | Adam Levesque | Guest | ---- | Unlock all Animal Care research programs. (Adam Levesque is the CEO of Blue Fang and Creative Director for Zoo Tycoon.) |
@@ -109,7 +113,7 @@ Unconfirmed rumors that we might or might not have heard...
 | Name | Type | Gender | Description |
 | ------- | -----| ------ | ------- |
 | wonderland | Exhibit | ---- | Get a bonus toward the chance of guests entering the zoo. |
-| reindeer comet | Animal | ---- | Name a reindeer comet and all dinosaurs and dino eggs disappear from your zoo |
+| reindeer comet (could just be 'Comet') | Animal | ---- | Name a reindeer comet and all dinosaurs and dino eggs disappear from your zoo |
 | Microsoft | Exhibit | ---- | Get double the normal donations at exhibits. |
 | Rosalie | Tour Guide | Female | All your tour guides will work for free. (Rosalie is one of the Deep Gameplay Testers for Zoo Tycoon) |
 | Susan Kittleson | Zookeeper | Female | Zoo marketing effect is doubled (non-cumulative) (DD) |

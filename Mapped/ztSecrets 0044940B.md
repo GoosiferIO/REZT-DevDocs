@@ -9,7 +9,7 @@ This function serves as a switchboard for all of the cheat, easter egg, and secr
 
 Every staff or guest name is explicitly named and a conditional in the switch statement, so it's possible that they're not actually pulled from a serialized data container or a configuration file--these might be strings that are hardcoded into the switch statement. However, this function has not yet been tested, and the only reason this is brought up is because other decompilation tools present the names as strings, while Ghidra shows a data container with a named label.
 
-Note that the only cheat whose 'cheat name' *is not* explicitly named inside of this structure is the [Jonathan Gilmour Cheat](ZTGameMgr%20ultZKeeperCheat%20006089E8.md). 
+Note that the only cheat whose 'cheat name' *is not* explicitly named inside of this structure is the [Jonathan Gilmour Cheat](ZTGameMgr%20uzKeeprCheat%20006089E8.md). 
 
 `ztSecrets` has not been completely studied, but will help reverse many other areas of the code.
 

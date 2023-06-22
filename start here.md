@@ -23,7 +23,7 @@ This effort is a multi-year commitment and we have a great core team working on 
 
 - [[ZT1 All Cheats and Easter Eggs]]
 - [[Official Scenario Documentation Reference]]
-- Laundry Basket (Contains a list of notes that need updated and why)
+- [[Laundry Basket]]
 
 ### The Team
 
