@@ -6,7 +6,7 @@ This structure seems to be a mapping between class names as strings and some con
 
 | Class Name | Init Function | Class Address |
 | ------- | -------- | ---------- |
-| ZTApp | | |
+| [[ZTApp]] | | 0x00638148 |
 | DX8SndMgr | 0x5280c3 | 0x630a48 |
 | [[ZTGameMgr]] | 0x527dc7 | 0x00638048 | 
 | ZTAIMgr | 0x525961 | 0x63536c | 

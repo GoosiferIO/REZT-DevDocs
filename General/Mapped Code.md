@@ -52,7 +52,7 @@ The structures are more utility in nature.
 - [[BFRegistry]]
 - ZTScriptMgr
 - BFResourceMgr
-- ZTApp
+- [[ZTApp]]
 
 # Unknown Structures
 
