@@ -11,7 +11,7 @@ This structure seems to be a mapping between class names as strings and some con
 | [[ZTGameMgr]] | 0x527dc7 | 0x00638048 | 
 | [[ZTAIMgr]] | 0x525961 | 0x63536c | 
 | [[ZTScenarioMgr]] | 0x525e27 | 0x630d7c |
-| ZTMarketingMgr | 0x5257e7 | 0x635110 | 
+| [[ZTMarketingMgr]] | 0x5257e7 | 0x635110 | 
 | ZTAdvTerrainMgr | 0x525470 | 0x630ad8 |
 | ZTHabitatMgr | 0x464925 | 0x463737 |
 | ZTMegatileMgr | 0x463e1e | 0x6355c4 |

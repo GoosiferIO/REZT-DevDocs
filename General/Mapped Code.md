@@ -31,7 +31,7 @@ These structures appear to manipulate the UI in some capacity.
 - ZTMessageQueue
 - ZTMapView
 - ZTMegatileMgr
-- ZTMarketingMgr
+- [[ZTMarketingMgr]]
 - [[ZTResearchMgr]]
 - ZTThoughtMgr
 - [[ZTWorldMgr]]

@@ -4,6 +4,8 @@ Return to [start here](app://obsidian.md/start%20here.md) / [Mapped Code](app
 
 Not much known about how this class works yet. We know its name because we have been able to map symbols with their pointers using a function that calls [[BFRegistry]].
 
+The class constructor is at `0x00630D7C`.
+
 # Table of Contents
 
 [[#Structure]]
