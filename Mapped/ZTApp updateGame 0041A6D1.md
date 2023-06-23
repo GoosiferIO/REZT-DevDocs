@@ -3,7 +3,13 @@ Return to [start here](../start%20here.md) / [Mapped Code](../General/Mapped%20C
 
 # ZTApp::updateGame
 
-This is part of the main game loop. It appears to constantly update certain class instances that run the game.
+This is part of the main game loop. It appears to constantly update certain member functions.
+
+# Table of Contents
+
+[[#Decompile]]
+[[#Connection to other Classes]]
+[[#XREFs]]
 
 # Decompile
 
@@ -24,6 +30,17 @@ void __thiscall virt_meth_0x41a6d1(void *this)
   return;
 }
 ```
+
+# Connection to other Classes
+
+These member functions appear to be connected to the following classes:
+
+- `GLOBAL_ZOO_BUDGET_STATUS` is [[ZTGameMgr]]
+- [[ZTAIMgr]] ---> `00638098`
+- [[ZTWorldMgr]] ---> `00638040`
+- [[ZTScenarioMgr]] ---> `00638FF8`
+- [[ZTResearchMgr]] ---> `00639010`
+- [[ZTMarketingMgr]] ---> `00639000`
 
 # XREFs
 
