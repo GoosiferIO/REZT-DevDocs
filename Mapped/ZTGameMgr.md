@@ -16,7 +16,7 @@ The class exists at `0x0040F018`, and its constructor is at`0x00638048`.
 	[Data Members](#Data%20Members)
 		[Need More Testing](#Need%20More%20Testing)
 		[[#Data Types Possibly Identified But Purpose Unknown]]
-	[Class Functions](#Class%20Functions)
+	[[#Member Functions]]]
 
 # Structure
 
@@ -75,7 +75,7 @@ We have a rough idea of what the data types for the following resources are, but
 | `Unknown[12]` | `0x674` | float | Array | Array of unknown purpose. 48 bytes, 12 members. |
 | `Unknown[12]` | `0x6A4` | float | Array | Array of unknown purpose. 48 bytes, 12 members. |
 
-# Class Functions 
+# Member Functions 
 
 At the moment the following functions are speculative and are originally defined in the `0x0040F018` class. However, if we can find evidence that  the `0x00638048` pointer is an instantiated form of this class, these are also part of it. 
 

@@ -42,7 +42,7 @@ These structures might involve constant logic flow to control the game behavior.
 
 - ZTHabitatMgr
 - [[ZTAIMgr]]
-- ZTScenarioMgr
+- [[ZTScenarioMgr]]
 - ZTShowMgr
 
 # Utility Structures

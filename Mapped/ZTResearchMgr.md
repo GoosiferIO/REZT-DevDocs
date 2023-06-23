@@ -9,11 +9,11 @@ The class constructor is at `0x00635100`.
 # Table of Contents
 
 [[#Structure]]
-   [[#Class Functions]]
+   [[#Member Functions]]
 
 # Structure
 
-## Class Functions
+## Member Functions
 
 This is the only known function part of this structure at this time.
 
