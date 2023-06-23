@@ -2,9 +2,9 @@ Return to [start here](app://obsidian.md/start%20here.md) / [Mapped Code](app
 
 # `ZTAIMgr`
 
-Not much known about how this class works yet, but as its namesake suggests, it is dealing with the game AI.
+Not much known about how this class works yet, but as its namesake suggests, it is dealing with the game AI. We know its name because we have been able to map symbols with their pointers using a function that calls [[BFRegistry]].
 
-The class exists at `0x0063536C`.
+The class constructor is at `0x0063536C`.
 
 # Table of Contents
 

@@ -34,7 +34,7 @@ These structures appear to manipulate the UI in some capacity.
 - ZTMarketingMgr
 - [[ZTResearchMgr]]
 - ZTThoughtMgr
-- ZTWorldMgr
+- [[ZTWorldMgr]]
 
 # AI Structures
 

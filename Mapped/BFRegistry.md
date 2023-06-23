@@ -16,9 +16,9 @@ This structure seems to be a mapping between class names as strings and some con
 | ZTHabitatMgr | 0x464925 | 0x463737 |
 | ZTMegatileMgr | 0x463e1e | 0x6355c4 |
 | ZTThoughtMgr | 0x464b34 | 0x6355cc |
-| ZTWorldMgr | 0x46498e | 0x630cac |
+| [[ZTWorldMgr]] | 0x46498e | 0x630cac |
 | ZTScriptMgr | 0x51e0d6 | 0x6358c8 |
-| ZTResearchMgr | 0x51e293 | 0x635100 |
+| [[ZTResearchMgr]] | 0x51e293 | 0x635100 |
 | ZTShowMgr | 0x51f79e | 0x635120 |
 | UILayout | 0x50fa37 | ---- |
 | UIEditableText | 0x510c52 | ---- |

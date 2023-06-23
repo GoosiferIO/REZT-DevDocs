@@ -2,7 +2,7 @@ Return to [start here](app://obsidian.md/start%20here.md) / [Mapped Code](app
 
 # `ZTApp`
 
-This class appears to initialize all of the other \*Mgr classes. 
+This class appears to initialize all of the other \*Mgr classes. We know its name because we have been able to map symbols with their pointers using a function that calls [[BFRegistry]].
 
 The class exists at `0x00638148`.
 

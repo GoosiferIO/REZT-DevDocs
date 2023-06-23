@@ -4,6 +4,8 @@ Return to [start here](../start%20here.md) / [Mapped Code](../General/Mapped%20C
 
 This class appears to update many of the UI elements on the screen. As of this moment, only functionality related to the budget has been exposed in this class, but we speculate that there may be other member functions. It might make sense to see this class as the 'player state' class.
 
+We know its name because we have been able to map symbols with their pointers using a function that calls [[BFRegistry]].
+
 The class exists at `0x0040F018`, and its constructor is at`0x00638048`.
 
 `ZTGameMgr` extends all of the way to offset `0x11B0`.
