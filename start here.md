@@ -18,6 +18,7 @@ This effort is a multi-year commitment and we have a great core team working on 
 
 - [ZT EMU Code](./General/API%20Code.md)
 - [Mapped Code](./General/Mapped%20Code.md)
+- [[Common Types]]
 
 ### Reference Lists
 
@@ -33,6 +34,7 @@ Anyone on the team may add their socials here or ping @Goosifer so he can add th
 	- https://indieweb.social/@goosifer
 	- https://github.com/GoosiferIO
 - Finn
+	- https://github.com/finnhartshorn
 - Jay
 - Gymnasiast
 - Dexter

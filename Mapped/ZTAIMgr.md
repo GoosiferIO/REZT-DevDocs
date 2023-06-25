@@ -12,6 +12,14 @@ The class constructor is at `0x0063536C`.
    [[#Member Functions]]
 
 # Structure
+## Data Members
+
+The following offsets are added to the `*(0x638048)` pointer.
+
+| Member |  Offset | Data Type | Member Type | Description | 
+| ------- | --------------- | ---------| -----| ---- |
+| mbr_0 | `0x0`  | vtable | vtable | Point to class cls_0x635324|
+| mbr_8 | `0x8`  | vtable | vtable | Point to class cls_0x635324|
 
 ## Member Functions
 
@@ -19,4 +27,4 @@ These are the only known functions part of this structure at this time.
 
 |Member|Location|Ret Type|Member Type|Description|
 |---|---|---|---|---|
-||`*(00638098) + 8`|void|member function|It's possible that this is a virtual function. Not much info given by Ghidra, will need other tools to verify.|
+||`*(00638098) + 8`|void|member function|It's possible that this is a virtual function. Not much info given by Ghidra, will need other tools to verify. Seems to point to OOAnalyzer::cls_0x62de40::virt_meth_0x59da9f|
