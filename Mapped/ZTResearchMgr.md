@@ -2,7 +2,7 @@ Return to [start here](app://obsidian.md/start%20here.md) / [Mapped Code](app
 
 # `ZTResearchMgr
 
-Not much is known about this class works yet, but given its namesake, it's likely to do with research. We know its name because we have been able to map symbols with their pointers using a function that calls [[BFRegistry]].
+Not much is known about how this class works yet, but given its namesake, it's likely to do with research. We know its name because we have been able to map symbols with their pointers using a function that calls [[BFRegistry]].
 
 The class constructor is at `0x00635100`.
 
