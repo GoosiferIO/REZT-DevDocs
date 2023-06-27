@@ -23,7 +23,7 @@ One of the core features for this API is the command console. A lot of the debug
 The command console is accessible by typing in the command `CTRL + J` while the game is running. A few things to keep in mind for now:
 
 - In order to view the console, it is recommended that the game be in windowed mode.
-- It is also recommended to hold off on  opening the console until after the loading bar is done loading. This is where the game allocates the memory it needs for the [[ZTGameMgr]] object. At the moment, the console makes use of it.
+- It is also recommended to hold off on opening the console until after the loading bar is done loading. This is where the game allocates the memory it needs for the [[ZTGameMgr]] object. At the moment, the console makes use of it.
 	- A planned safety check for the future will allow the console to open, but will not allow any commands to run until this memory space has been allocated.
 
 ## Closing the Console

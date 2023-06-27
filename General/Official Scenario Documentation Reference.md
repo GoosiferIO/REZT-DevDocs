@@ -4,7 +4,7 @@ Return to [[start here]]
 
 Blue Fang included documentation for the scenario configuration files. This will be helpful in discerning some of the branching logic especially those functions concerned with parsing .scn files.
 
-This file can be found in `~/Zoo Tycoon/<unzip scenario.ztd>/scenario/example/example.scn`
+This file can be found in `~/Zoo Tycoon/XPACK2/<unzip scenari6.ztd>/scenario/example.scn`
 
 # `example.scn`
 
