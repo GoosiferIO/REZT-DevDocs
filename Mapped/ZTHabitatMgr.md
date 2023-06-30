@@ -32,6 +32,11 @@ The following offsets are added to the `*(0x63805C)` pointer.
 
 |Member|Offset|Data Type|Member Type|Description|
 |---|---|---|---|---|
+|`MapX`|`0x08`|int|Variable|Size of currently loaded map in the X dimension|
+|`MapY`|`0x0C`|int|Variable|Size of currently loaded map in the Y dimension|
+|`ZooEntranceX`|`0x10`|int|Variable|X coord of the zoo entrance object|
+|`ZooEntranceY`|`0x14`|int|Variable|Y coord of the zoo entrance object|
+
 
 
 
