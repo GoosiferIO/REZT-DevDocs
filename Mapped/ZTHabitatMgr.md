@@ -36,6 +36,7 @@ The following offsets are added to the `*(0x63805C)` pointer.
 |`MapY`|`0x0C`|int|Variable|Size of currently loaded map in the Y dimension|
 |`ZooEntranceX`|`0x10`|int|Variable|X coord of the zoo entrance object|
 |`ZooEntranceY`|`0x14`|int|Variable|Y coord of the zoo entrance object|
+|`ExhibitArray`|`0x1c`|ZTArray|Variable|Array of exhibits
 
 
 
@@ -50,9 +51,10 @@ These are the only known functions part of this structure at this time.
 
 ## Other Functions
 
-These are the only known functions part of this structure at this time.
+Other related functions, `thiscall` or otherwise
 
-|Location|Class|Ret Type|Description|
-|---|---|---|---|
-|`0x479a54`|`0x632100`|uint|Saves ZTHabitat to savefile|
-|`0x410d04`|`0x632100`|int||
+|Name|Location|Class|Ret Type|Description|
+|---|---|---|---|---|
+|WriteExhibitsToFile|`0x479a54`|`0x632100`|uint|Saves ZTHabitatMgr to savefile|
+||`0x410d04`|`0x632100`|int|Returns Zoo Gate object|
+|WriteExhibitToFile|`0x479b73`|`0x632100`|int|Saves exhibit to savefile|
