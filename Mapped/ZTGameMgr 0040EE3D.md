@@ -18,7 +18,7 @@ Originally it was assumed that this was the check for the relief fund when zoo f
 
 Ghidra Decompile:
 
-```C++
+```Cpp
 void FUN_0040ee3d(void)
 
 {
