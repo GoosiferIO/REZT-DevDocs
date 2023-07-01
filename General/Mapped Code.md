@@ -40,7 +40,7 @@ These structures appear to manipulate the UI in some capacity.
 
 These structures might involve constant logic flow to control the game behavior.
 
-- ZTHabitatMgr
+- [[ZTHabitatMgr]]
 - [[ZTAIMgr]]
 - [[ZTScenarioMgr]]
 - ZTShowMgr

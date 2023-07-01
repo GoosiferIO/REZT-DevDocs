@@ -4,7 +4,7 @@ ZTHabitatMgr
 
 Not much known about how this class works yet. We know its name because we have been able to map symbols with their pointers using a function that calls [[BFRegistry]].
 
-The class constructor is at `0x0063805C.
+The class constructor is at `0x0063805C`.
 
 # Table of Contents
 

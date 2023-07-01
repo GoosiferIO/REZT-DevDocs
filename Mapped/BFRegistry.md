@@ -13,7 +13,7 @@ This structure seems to be a mapping between class names as strings and some con
 | [[ZTScenarioMgr]] | 0x525e27 | 0x630d7c |
 | [[ZTMarketingMgr]] | 0x5257e7 | 0x635110 | 
 | ZTAdvTerrainMgr | 0x525470 | 0x630ad8 |
-| ZTHabitatMgr | 0x464925 | 0x463737 |
+| [[ZTHabitatMgr]] | 0x464925 | 0x463737 |
 | ZTMegatileMgr | 0x463e1e | 0x6355c4 |
 | ZTThoughtMgr | 0x464b34 | 0x6355cc |
 | [[ZTWorldMgr]] | 0x46498e | 0x630cac |
