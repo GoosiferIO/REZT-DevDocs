@@ -22,6 +22,7 @@ The following offsets are added to the `*(0x630CAC)` pointer.
 |---|---|---|---|---|
 |`MapX`|`0x34`|int|Variable|Size of currently loaded map in the X dimension|
 |`MapY`|`0x38`|int|Variable|Size of currently loaded map in the Y dimension|
+|`EntityArray`|0x80|ZT Array|Member Variable|Array of all entities in the map|
 
 
 ## Member Functions
