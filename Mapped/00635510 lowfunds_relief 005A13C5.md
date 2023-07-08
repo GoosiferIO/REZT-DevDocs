@@ -26,7 +26,7 @@ It turns out that each one of these functions are the result of the `trulea` val
 
 A rough decompile from Ghidra:
 
-```C++
+```Cpp
 void __thiscall FUN_005a13c5(void *this,char param_1)
 
 {
