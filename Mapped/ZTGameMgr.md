@@ -37,6 +37,7 @@ The following offsets are added to the `*(0x638048)` pointer.
 | `IncomeExpenseTotalsByMonth[12]` | `0x44C` | float | Array | Stores income expense totals by month |
 | `ZooRatingByMonth[12]` | `0x464` | float | Array | Calculated as the game runs, not at end of month |
 | `ContructionCostByMonth[12]` | `0x824` | float | Array | Stores construction costs by month. |
+| IsPaused | 
 
 ### Need More Testing
 

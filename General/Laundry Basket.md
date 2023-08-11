@@ -8,4 +8,5 @@ This is just a housekeeping list with items that need to be addressed. Though an
 - ***Added 06/21/23***  The following secrets need to be added to [[ZT1 All Cheats and Easter Eggs]]:  andrew binder, redman, yellowman, marwan jubran. **- eric**
 - ***Added 06/21/23*** Function 00400EE3D might not be part of ZTGameMgr. Needs another look. ***- eric***
 - ***Added 06/22/23*** Need to confirm with Finn what address ZTApp lives. Using `00638148` for now as that's all I was able to find that was passed in its instance pointer field. **- eric**
+- ***Added 08/10/23*** Need to add a reference page that describes Finn's script for [[ZTWorldMgr EntityArray]]
 
