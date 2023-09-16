@@ -28,15 +28,17 @@ The following offsets are added to the `*(0x638048)` pointer.
 | ------- | --------------- | ---------| -----| ---- |
 | `ZooBudget` | `0x0C`  | float | Variable | Stores the value of the budget on the game screen |
 | `NumAnimals` | `0x30` | int | Variable | Number of animals in the zoo |
-| `NumExhibits` | `0x38` | int | Variable | Number of exhibits in the zoo |
+| `NumSpecies` | `0x38` | int | Variable | Number of exhibits in the zoo |
 | `NumGuests` | `0x54` | int | Variable | Number of guests in the zoo |
 | `AdmissionsIncomeByMonth[12]` | `0x254` | float | Array | Stores admission income by month. Every element counts as one month. |
-| `ConcessionsBenefitByMonth[12]` | `0x29C` | float | Array | Stores concession benefit values by month. |
+| `ConcessionsBenefitByMonth[12]` | `0x284` | float | Array | Stores concession benefit values by month. |
 | `RecyclingBenefitByMonth[12]` | `0x340` | float | Array | Stored recycling benefit values by month. |
 | `ZooProfitOverTime[12]` | `0x404` | float | Array | Stores zoo profit over the course of 12 months. |
-| `IncomeExpenseTotalsByMonth[12]` | `0x44C` | float | Array | Stores income expense totals by month |
 | `ZooRatingByMonth[12]` | `0x464` | float | Array | Calculated as the game runs, not at end of month |
-| `ContructionCostByMonth[12]` | `0x824` | float | Array | Stores construction costs by month. |
+| `ContructionCostByMonth[12]` | `0x1F4` | float | Array | Stores construction costs by month. |
+|`AnimalPurchaseCostByMonth[12]` | `0x1C4` | float | Array | Stores animal purchase costs per month. |
+|`ResearchCostsPerMonth[12]` | `0xD10` | float | Array | Research costs per month. |
+| `ZooValueOverTime[12]` | `0x434` | float | Array | Zoo value over time. This one is cool because it's not available in the game. |
 | IsPaused | 
 
 ### Need More Testing
@@ -45,15 +47,14 @@ The following need more testing to make sure they stay consistent across saves.
 
 | Member |  Offset | Data Type | Member Type | Description | 
 | ------- | --------------- | ---------| -----| ---- |
-| `NumAngryGuests` | `0x38`  | int | Variable | How many angry guests in zoo |
 | `NumTiredGuests` | `0x3C` | int | Variable | How many tired guests in zoo |
-| `NumHungryGuests` | `0x30` | int | Variable | How many hungry guests in zoo |
+| `NumHungryGuests` | `0x40` | int | Variable | How many hungry guests in zoo |
 | `NumThirstyGuests` | `0x44` | int | Variable | How many thirsty guests in zoo |
 | `NumGuestsNeedRestrm` | `0x48` | int | Variable | How many guests in zoo need to use the loo. |
 | `NumGuestsInFilter` | `0x54` | int | Variable | This is effectively the total number of guests in the zoo, but specific to the filter dialog, it's in reference to how many guests are in the filter. |
 | `ZooAdmissionCost` | `0x1160` | float | Variable | Admission cost for an adult ticket to enter the zoo. Child ticket is a calculated value divided by half. |
-| `ZooValueOverTime[12]` | `0x434` | float | Array | Zoo value over time. This one is cool because it's not available in the game. |
 
+Note: `NumAngryGuests` might not exist in memory and could be a calculated value instead. It does not exist together with the array that stores the other guest filter stats.
 ### Data Types Possibly Identified But Purpose Unknown
 
 We have a rough idea of what the data types for the following resources are, but have not identified their purpose.
