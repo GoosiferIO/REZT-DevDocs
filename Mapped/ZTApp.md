@@ -17,6 +17,7 @@ The class exists at `0x00638148`.
 
 These are the only known functions part of this structure at this time.
 
-|Member|Location|Ret Type|Member Type|Description|
-|---|---|---|---|---|
-| updateGame |`0041A6D1` |void | function | Part of the main game loop. Updates some class instances. |
+| Member | Location | Ret Type | Calling Conv. | Description |
+| ---- | ---- | ---- | ---- | ---- |
+| updateGame | `0041A6D1` | void |  | Part of the main game loop. Updates some class instances. |
+| LoadAccelerators | `0053797B` | void | \__thiscall |  |

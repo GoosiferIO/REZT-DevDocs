@@ -38,4 +38,4 @@ Anyone on the team may add their socials here or ping @Goosifer so he can add th
 	- https://github.com/finnhartshorn
 - Jay
 - Gymnasiast
-- Dexter
+- wowjinxy

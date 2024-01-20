@@ -1,8 +1,8 @@
-Return to [start here](../start%20here.md) / [Mapped Code](../General/Mapped%20Code.md) / [00635510](00635510.md)
+Return to [start here](../start%20here.md) / [Mapped Code](../General/Mapped%20Code.md) / [00635510 ZTScenarioSimpleGoal](00635510%20ZTScenarioSimpleGoal.md)
 
 # `00635510::send_msg_arg`
 
-This function passes an argument to a message, though it is unclear what exactly that pertains. It is one of the ten functions controlled by [[00635510 trulea_switch 004FC783| 00635510::trulea_switch]]. 
+This function passes an argument to a message, though it is unclear what exactly that pertains. It is one of the ten functions controlled by [[00635510 ZTScenarioSimpleGoal trulea_switch 004FC783| 00635510::trulea_switch]]. 
 
 # Analysis
 
@@ -67,5 +67,5 @@ A few notes about the Ghidra decompile:
 
 | Function Name | Function Location | Call Location | Access Type | Context |
 | ---- | ---- | ---- | ---- | ---- |
-| [[00635510 trulea_switch 004FC783 \| 00635510::trulea_switch]] | 004FC783 | 004FC7A8 | (c) | Controls ten functions given the value of the `trulea` value found in SCN files. |
+| [[00635510 ZTScenarioSimpleGoal trulea_switch 004FC783| 00635510::trulea_switch]] | 004FC783 | 004FC7A8 | (c) | Controls ten functions given the value of the `trulea` value found in SCN files. |
 

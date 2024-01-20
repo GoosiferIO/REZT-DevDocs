@@ -39,7 +39,7 @@ The following offsets are added to the `*(0x638048)` pointer.
 |`AnimalPurchaseCostByMonth[12]` | `0x1C4` | float | Array | Stores animal purchase costs per month. |
 |`ResearchCostsPerMonth[12]` | `0xD10` | float | Array | Research costs per month. |
 | `ZooValueOverTime[12]` | `0x434` | float | Array | Zoo value over time. This one is cool because it's not available in the game. |
-| IsPaused | 
+| `IsPaused` | `0x4` | bool | Variable | Is the game paused? |
 
 ### Need More Testing
 

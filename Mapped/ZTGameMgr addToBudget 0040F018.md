@@ -41,7 +41,7 @@ The following is a table listing all of the calls to the `addToBudget` function 
 | 5 | `006089e8` | `006089fc` | Adds $20,000 when renaming a male Zookeeper Jonathan Gilmour with .cfg file |
 | 6 | `00607174` | `00607299` | 
 | 7 | `005b0f17` | `005b0f2d` | Sets the budget for a new zoo from the main menu | 
-| 8 | [[00635510 lowfunds_relief 005A13C5 \| 00635510::lowfunds_relief]] | `005a1679` | Adds $10,000 when cash is less than $1000 (normal map), adds $500,000 when cash is less than $25,000 (MM:kiddie map, medium) |
+| 8 | [[00635510 ZTScenarioSimpleGoal lowfunds_relief 005A13C5| 00635510::lowfunds_relief]] | `005a1679` | Adds $10,000 when cash is less than $1000 (normal map), adds $500,000 when cash is less than $25,000 (MM:kiddie map, medium) |
 | 9 | `004f6e3c` | `004f7031` | Updates budget when guest pays admission |
 | 10 | `004d9088` | `004d920f` | Undo after a destroy or purchase - restores budget to previous state |
 | 11 | `004a2c98` | `004a2f97` | |
@@ -53,4 +53,4 @@ The following is a table listing all of the calls to the `addToBudget` function 
 
 ## Recent developments concerning this table:
 
-- **06/18/2023**:  [005A13C5](00635510%20lowfunds_relief%20005A13C5.md) is a function that belongs to a class at [00635510](00635510.md). It appears to have functionality concerning .scn file parsing and the logic handling involved in their settings.
+- **06/18/2023**:  [005A13C5](00635510%20ZTScenarioSimpleGoal%20lowfunds_relief%20005A13C5.md) is a function that belongs to a class at [00635510 ZTScenarioSimpleGoal](00635510%20ZTScenarioSimpleGoal.md). It appears to have functionality concerning .scn file parsing and the logic handling involved in their settings.

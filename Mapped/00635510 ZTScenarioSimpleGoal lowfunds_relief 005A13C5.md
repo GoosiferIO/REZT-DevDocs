@@ -1,8 +1,8 @@
-Return to [start here](../start%20here.md) / [Mapped Code](../General/Mapped%20Code.md) / [00635510](00635510.md)
+Return to [start here](../start%20here.md) / [Mapped Code](../General/Mapped%20Code.md) / [00635510 ZTScenarioSimpleGoal](00635510%20ZTScenarioSimpleGoal.md)
 
 # `00635510::005A13C5`
 
-This function decides whether to give a player 500,000 or 10,000 from the relief fund, among other things most of which are yet to be figured out. It is one of the ten functions controlled by [[00635510 trulea_switch 004FC783| 00635510::trulea_switch]]. 
+This function decides whether to give a player 500,000 or 10,000 from the relief fund, among other things most of which are yet to be figured out. It is one of the ten functions controlled by [[00635510 ZTScenarioSimpleGoal trulea_switch 004FC783| 00635510::trulea_switch]]. 
 
 # Table of Contents
 
@@ -102,4 +102,4 @@ This function seems to be referenced from the following locations:
 
 | Function Name | Function Location | Call Location | Access Type | Context |
 | ---- | ---- | ---- | ---- | ---- |
-| [[00635510 trulea_switch 004FC783 \| 00635510::trulea_switch]] | 004FC783 | 005A13E5 | (c) | Appears to be part of some switch statement and is a function call given a true conditional. It is among 10 other functions in this switch statement. |
+| [[00635510 ZTScenarioSimpleGoal trulea_switch 004FC783| 00635510::trulea_switch]] | 004FC783 | 005A13E5 | (c) | Appears to be part of some switch statement and is a function call given a true conditional. It is among 10 other functions in this switch statement. |

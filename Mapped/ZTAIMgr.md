@@ -25,6 +25,8 @@ The following offsets are added to the `*(0x638048)` pointer.
 
 These are the only known functions part of this structure at this time.
 
-|Member|Location|Ret Type|Member Type|Description|
-|---|---|---|---|---|
-||`*(00638098) + 8`|void|member function|It's possible that this is a virtual function. Not much info given by Ghidra, will need other tools to verify. Seems to point to OOAnalyzer::cls_0x62de40::virt_meth_0x59da9f|
+| Member | Location | Ret Type | Calling Conv. | Description |
+| ---- | ---- | ---- | ---- | ---- |
+|  | `*(00638098) + 8` | void |  | It's possible that this is a virtual function. Not much info given by Ghidra, will need other tools to verify. Seems to point to OOAnalyzer::cls_0x62de40::virt_meth_0x59da9f |
+| initAIParams | `0052599F` | `uint` | \__thiscall |  |
+| ZTAIMgr::virt_meth_0x434AA2 | `00434AA2` | void | \__thiscall | Virtual function. |

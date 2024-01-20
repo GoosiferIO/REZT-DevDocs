@@ -1,15 +1,15 @@
-Return to [start here](../start%20here.md) / [Mapped Code](../General/Mapped%20Code.md) / [00635510](00635510.md)
+Return to [start here](../start%20here.md) / [Mapped Code](../General/Mapped%20Code.md) / [00635510 ZTScenarioSimpleGoal](00635510%20ZTScenarioSimpleGoal.md)
 
 # `00635510::trulea_switch`
 
-This function acts as the switchboard between the `trulea` attributes in SCN files. It picks from 10 functions inside of the class at [00635510](00635510.md) to run given a certain unknown condition. Notably, one of these functions is[[00635510 lowfunds_relief 005A13C5 | 00635510::lowfund_relief]], the function that provides a relief fund given certain conditions.
+This function acts as the switchboard between the `trulea` attributes in SCN files. It picks from 10 functions inside of the class at [00635510 ZTScenarioSimpleGoal](00635510%20ZTScenarioSimpleGoal.md) to run given a certain unknown condition. Notably, one of these functions is[[00635510 ZTScenarioSimpleGoal lowfunds_relief 005A13C5| 00635510::lowfund_relief]], the function that provides a relief fund given certain conditions.
 
 It is not yet clear what `param_1` represents in these functions. Tracing pending.
 
 # Table of Contents
 
 [Decompile](#Decompile)
-[XREFs](00635510%20trulea_switch%20004FC783.md#XREFs)
+[XREFs](00635510%20ZTScenarioSimpleGoal%20trulea_switch%20004FC783.md#XREFs)
 
 # Decompile
 

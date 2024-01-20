@@ -1,8 +1,8 @@
-Return to [start here](../start%20here.md) / [Mapped Code](../General/Mapped%20Code.md) / [00635510](00635510.md)
+Return to [start here](../start%20here.md) / [Mapped Code](../General/Mapped%20Code.md) / [00635510 ZTScenarioSimpleGoal](00635510%20ZTScenarioSimpleGoal.md)
 
 # `00635510::popup_dialog_ctrl`
 
-This function seems to control UI popups and among a few other controls. It is one of the ten functions controlled by [[00635510 trulea_switch 004FC783| 00635510::trulea_switch]]. 
+This function seems to control UI popups and among a few other controls. It is one of the ten functions controlled by [[00635510 ZTScenarioSimpleGoal trulea_switch 004FC783| 00635510::trulea_switch]]. 
 
 # Analysis
 
@@ -241,5 +241,5 @@ LAB_004579ec:
 
 | Function Name | Function Location | Call Location | Access Type | Context |
 | ---- | ---- | ---- | ---- | ---- |
-| [[00635510 trulea_switch 004FC783 \| 00635510::trulea_switch]] | 004FC783 | 004FC7A8 | (c) | Controls ten functions given the value of the `trulea` value found in SCN files. |
+| [[00635510 ZTScenarioSimpleGoal trulea_switch 004FC783| 00635510::trulea_switch]] | 004FC783 | 004FC7A8 | (c) | Controls ten functions given the value of the `trulea` value found in SCN files. |
 

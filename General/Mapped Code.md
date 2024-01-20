@@ -58,4 +58,4 @@ The structures are more utility in nature.
 
 These structures are notable due to their connection to other mapped code, but their purpose hasn't been defined yet.
 
-- [00635510](../Mapped/00635510.md)
+- [00635510 ZTScenarioSimpleGoal](00635510%20ZTScenarioSimpleGoal.md)
